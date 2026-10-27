@@ -52,6 +52,16 @@ python3 -m scripts.evaluate_ambiguity --top-k 10 --candidate-limit 100
 python3 -m pytest -q tests
 ```
 
+The `evaluate_*` commands run the corresponding analysis for all 12 challenge
+queries and write the results to `reports/`. To inspect one query interactively
+instead, use the single-query command:
+
+```bash
+python3 -m scripts.run_structured \
+  'Public software companies with more than 1,000 employees.' \
+  --limit 10
+```
+
 The generated reports under `reports/` preserve the progression from data
 profiling through the structured, lexical, and hybrid stages. See
 [`WRITEUP.md`](WRITEUP.md) for design decisions, trade-offs, error analysis,

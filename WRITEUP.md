@@ -74,13 +74,25 @@ python3 -m py_compile src/data.py tests/test_data.py scripts/profile_data.py
 These commands are kept here so the analysis and validation steps are
 reproducible.
 
-The structured baseline can be run as a module from the project root:
+For an interactive inspection of one query, the structured baseline can be run
+as a module from the project root:
 
 ```bash
 python3 -m scripts.run_structured \
   'Public software companies with more than 1,000 employees.' \
   --limit 10
 ```
+
+This command is intentionally single-query: it prints the parsed constraints
+and the ranked companies for the query supplied on the command line. The
+reproducible evaluation across all 12 challenge queries is a separate command:
+
+```bash
+python3 -m scripts.evaluate_structured --limit 10
+```
+
+The evaluation command loops over `CHALLENGE_QUERIES` and writes one report
+entry per query to `reports/structured_baseline.json`.
 
 Single quotes are intentional in shell examples when a query contains a
 currency symbol such as `$50`; otherwise a shell may interpret `$50` as
