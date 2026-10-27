@@ -1,0 +1,2220 @@
+[
+  {
+    "query": "Logistic companies in Romania",
+    "results": [
+      {
+        "record_id": "company-0014",
+        "name": "METRO România",
+        "website": "metro.ro",
+        "country": "Romania",
+        "final_score": 0.6854671133285342,
+        "lexical_score": 0.10133460951009754,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8427335566642671,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0010",
+        "name": "Fildas Trading",
+        "website": "fildas.ro",
+        "country": "Romania",
+        "final_score": 0.6756767301289541,
+        "lexical_score": 0.07336208608272615,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8378383650644771,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0022",
+        "name": "STILL",
+        "website": "still.ro",
+        "country": "Romania",
+        "final_score": 0.674864233671029,
+        "lexical_score": 0.07104066763151136,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8374321168355146,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0021",
+        "name": "Brasov Industrial Portfolio",
+        "website": "brasov-industrialportfolio.ro",
+        "country": "Romania",
+        "final_score": 0.6614444527911608,
+        "lexical_score": 0.032698436546173604,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8307222263955805,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0020",
+        "name": "Valbur",
+        "website": "vt-i.eu",
+        "country": "Romania",
+        "final_score": 0.6605773442736544,
+        "lexical_score": 0.030220983639012728,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8302886721368272,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0017",
+        "name": "OSCAR",
+        "website": "oscars.ro",
+        "country": "Romania",
+        "final_score": 0.6561497582430437,
+        "lexical_score": 0.01757073783726747,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8280748791215218,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0006",
+        "name": "OMV",
+        "website": "omv.ro",
+        "country": "Romania",
+        "final_score": 0.6538717073121004,
+        "lexical_score": 0.011062020891715554,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8269358536560503,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0007",
+        "name": "Compania Națională de Căi Ferate CFR",
+        "website": "cfr.ro",
+        "country": "Romania",
+        "final_score": 0.6533181603607071,
+        "lexical_score": 0.009480458173448756,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8266590801803535,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0011",
+        "name": "Portul Constanta",
+        "website": "portofconstantza.com",
+        "country": "Romania",
+        "final_score": 0.6528813633635273,
+        "lexical_score": 0.008232466752935028,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8264406816817637,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0013",
+        "name": "Romgaz",
+        "website": "romgaz.ro",
+        "country": "Romania",
+        "final_score": 0.65,
+        "lexical_score": 0.0,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.825,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Public software companies with more than 1,000 employees.",
+    "results": [
+      {
+        "record_id": "company-0268",
+        "name": "Tata Consultancy Services",
+        "website": "tcs.com",
+        "country": "India",
+        "final_score": 0.6797105853401616,
+        "lexical_score": 0.08488738668617583,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8398552926700809,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0270",
+        "name": "Capgemini",
+        "website": "capgemini.com",
+        "country": "Canada",
+        "final_score": 0.6746512219348788,
+        "lexical_score": 0.07043206267108235,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8373256109674394,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0285",
+        "name": "Tietoevry",
+        "website": "tietoevry.com",
+        "country": "Finland",
+        "final_score": 0.6718626696653233,
+        "lexical_score": 0.06246477047235202,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8359313348326616,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0271",
+        "name": "Wipro",
+        "website": "wipro.com",
+        "country": "India",
+        "final_score": 0.6666809034494677,
+        "lexical_score": 0.047659724141336395,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8333404517247338,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0275",
+        "name": "Fujitsu",
+        "website": "fujitsu.com",
+        "country": "Japan",
+        "final_score": 0.666567321573363,
+        "lexical_score": 0.04733520449532269,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8332836607866815,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0283",
+        "name": "Globant",
+        "website": "globant.com",
+        "country": "Luxembourg",
+        "final_score": 0.6662742841472332,
+        "lexical_score": 0.046497954706380615,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8331371420736167,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0282",
+        "name": "Mphasis",
+        "website": "mphasis.com",
+        "country": "United States",
+        "final_score": 0.6656624802216525,
+        "lexical_score": 0.044749943490435894,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8328312401108262,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0279",
+        "name": "EPAM",
+        "website": "epam.com",
+        "country": "United States",
+        "final_score": 0.6594357216868663,
+        "lexical_score": 0.026959204819617978,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8297178608434331,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0287",
+        "name": "CACI",
+        "website": "caci.com",
+        "country": "United States",
+        "final_score": 0.6581821704041988,
+        "lexical_score": 0.02337762972628224,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8290910852020994,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0040",
+        "name": "Tutor Perini",
+        "website": "tutorperini.com",
+        "country": "United States",
+        "final_score": -0.13682165509146607,
+        "lexical_score": 0.03765241402438261,
+        "evidence_score": 0.0,
+        "decision": "possible",
+        "confidence": 0.431589172454267,
+        "matched_constraints": [
+          "employee_count",
+          "is_public"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": [
+          "industry"
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Food and beverage manufacturers in France",
+    "results": [
+      {
+        "record_id": "company-0387",
+        "name": "Famille Pouille",
+        "website": "pouille.eu",
+        "country": "France",
+        "final_score": 0.7679046704595198,
+        "lexical_score": 0.3368704870271994,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8839523352297599,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0400",
+        "name": "Dechelette Estate",
+        "website": null,
+        "country": "France",
+        "final_score": 0.7479213764154856,
+        "lexical_score": 0.2797753611871018,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8739606882077429,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0386",
+        "name": "Domaine Godeau",
+        "website": null,
+        "country": "France",
+        "final_score": 0.7467028669151505,
+        "lexical_score": 0.2762939054718585,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8733514334575753,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0394",
+        "name": "Geyer",
+        "website": null,
+        "country": "France",
+        "final_score": 0.738004414150433,
+        "lexical_score": 0.2514411832869516,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8690022070752166,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0381",
+        "name": "La Péro",
+        "website": "la-pero.fr",
+        "country": "France",
+        "final_score": 0.7326046348264345,
+        "lexical_score": 0.23601324236124127,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8663023174132172,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0398",
+        "name": "Club-Mate",
+        "website": "club-mate.fr",
+        "country": "France",
+        "final_score": 0.7200808116961471,
+        "lexical_score": 0.2002308905604202,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8600404058480735,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0388",
+        "name": "MILHADE Vins & Spiritueux",
+        "website": null,
+        "country": "France",
+        "final_score": 0.7187523826799801,
+        "lexical_score": 0.19643537908565745,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.85937619133999,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0389",
+        "name": "La Limonaderie de Paris",
+        "website": "lalimonaderiedeparis.com",
+        "country": "France",
+        "final_score": 0.717361701824975,
+        "lexical_score": 0.19246200521421433,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8586808509124875,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0384",
+        "name": "LA MULTILOCALE",
+        "website": "lamultilocale.org",
+        "country": "France",
+        "final_score": 0.7161957318890745,
+        "lexical_score": 0.18913066254021288,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8580978659445373,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0396",
+        "name": "GreenLeaf Mate",
+        "website": "greenleaf-mate.com",
+        "country": "France",
+        "final_score": 0.7128325228556996,
+        "lexical_score": 0.17952149387342764,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8564162614278499,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+    "results": [
+      {
+        "record_id": "company-0264",
+        "name": null,
+        "website": "seycosmetics.co.uk",
+        "country": "United States",
+        "final_score": 0.751728117345179,
+        "lexical_score": 0.29065176384336844,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8758640586725894,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0255",
+        "name": "SHEACK Packaging",
+        "website": "sheackpkg.com",
+        "country": "China",
+        "final_score": 0.7517069424377331,
+        "lexical_score": 0.2905912641078086,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8758534712188666,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0266",
+        "name": "Flextribe",
+        "website": "flextribe.co",
+        "country": "United States",
+        "final_score": 0.7450622967740032,
+        "lexical_score": 0.2716065622114374,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8725311483870015,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0251",
+        "name": "Minh Trang Packaging",
+        "website": "xuongchailominhtrang.com",
+        "country": "Vietnam",
+        "final_score": 0.7414563348390544,
+        "lexical_score": 0.2613038138258694,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8707281674195272,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0262",
+        "name": "Yijie Packaging",
+        "website": "yijiepackaging.en.alibaba.com",
+        "country": "China",
+        "final_score": 0.7366759446753273,
+        "lexical_score": 0.24764555621522083,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8683379723376636,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0263",
+        "name": "Shenzhen Itop Cosmetic Packaging",
+        "website": "itoppacking.com",
+        "country": "China",
+        "final_score": 0.7357938766268081,
+        "lexical_score": 0.24512536179088018,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8678969383134041,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0253",
+        "name": "Aurelo Packaging Co",
+        "website": "aurelopackaging.com.au",
+        "country": "Australia",
+        "final_score": 0.7294124231030555,
+        "lexical_score": 0.22689263743730154,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8647062115515278,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0254",
+        "name": "Crystal International",
+        "website": "crystalintl.com",
+        "country": "Canada",
+        "final_score": 0.726329893930262,
+        "lexical_score": 0.21808541122932004,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.863164946965131,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0265",
+        "name": "Standard Mold",
+        "website": "standardmold.co.kr",
+        "country": "South Korea",
+        "final_score": 0.7158133190833408,
+        "lexical_score": 0.18803805452383082,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8579066595416704,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0259",
+        "name": "Shanghai Bochen Cosmetic Packaging",
+        "website": "cncosmeticbottles.com",
+        "country": "China",
+        "final_score": 0.7118806645881204,
+        "lexical_score": 0.1768018988232012,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8559403322940602,
+        "matched_constraints": [
+          "industry",
+          "role:supplier",
+          "target_market:cosmetics"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Construction companies in the United States with revenue over $50 million",
+    "results": [
+      {
+        "record_id": "company-0035",
+        "name": "Skanska",
+        "website": "skanska.com",
+        "country": "United States",
+        "final_score": 0.6842405400025191,
+        "lexical_score": 0.0978301142929117,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8421202700012596,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0039",
+        "name": "Focus Civil Construction Group",
+        "website": "focuscivil.com",
+        "country": "United States",
+        "final_score": 0.682292957585598,
+        "lexical_score": 0.0922655931017085,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.841146478792799,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0044",
+        "name": "DPR Construction",
+        "website": "dpr.com",
+        "country": "United States",
+        "final_score": 0.6817049584625623,
+        "lexical_score": 0.09058559560732077,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8408524792312811,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0028",
+        "name": "Kiewit",
+        "website": "kiewit.com",
+        "country": "United States",
+        "final_score": 0.6808363251029746,
+        "lexical_score": 0.08810378600849882,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8404181625514873,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0038",
+        "name": "Halmar International",
+        "website": "halmarinternational.com",
+        "country": "United States",
+        "final_score": 0.6778942539456668,
+        "lexical_score": 0.07969786841619073,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8389471269728335,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0034",
+        "name": "EMCOR Group",
+        "website": "emcorgroup.com",
+        "country": "United States",
+        "final_score": 0.6772354036700379,
+        "lexical_score": 0.07781543905725093,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8386177018350189,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0027",
+        "name": "Fluor",
+        "website": "fluor.com",
+        "country": "United States",
+        "final_score": 0.6765984449732922,
+        "lexical_score": 0.07599555706654927,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8382992224866461,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0032",
+        "name": "Quanta Services",
+        "website": "quantaservices.com",
+        "country": "United States",
+        "final_score": 0.674088861056555,
+        "lexical_score": 0.06882531730444261,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8370444305282775,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0029",
+        "name": "Lemartec",
+        "website": "lemartec.com",
+        "country": "United States",
+        "final_score": 0.6716863917213461,
+        "lexical_score": 0.06196111920384615,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8358431958606731,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0033",
+        "name": "BNBuilders",
+        "website": "bnbuilders.com",
+        "country": "United States",
+        "final_score": 0.6684754672020281,
+        "lexical_score": 0.05278704914865167,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.834237733601014,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "revenue"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Pharmaceutical companies in Switzerland",
+    "results": [
+      {
+        "record_id": "company-0450",
+        "name": "Sumitomo Pharma Switzerland",
+        "website": "sumitomo-pharma.com",
+        "country": "Switzerland",
+        "final_score": 0.7528906128881678,
+        "lexical_score": 0.2939731796804796,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8764453064440839,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0452",
+        "name": "Siegfried",
+        "website": "siegfried.ch",
+        "country": "Switzerland",
+        "final_score": 0.7448711790064848,
+        "lexical_score": 0.27106051144709925,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8724355895032424,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0477",
+        "name": "A. Menarini",
+        "website": "menarini.ch",
+        "country": "Switzerland",
+        "final_score": 0.7176121300982916,
+        "lexical_score": 0.19317751456654736,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8588060650491458,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0460",
+        "name": "Bachem",
+        "website": "bachem.com",
+        "country": "Switzerland",
+        "final_score": 0.712934636964482,
+        "lexical_score": 0.17981324846994864,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.856467318482241,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0454",
+        "name": "Acino",
+        "website": "acino.swiss",
+        "country": "Switzerland",
+        "final_score": 0.7087279332271222,
+        "lexical_score": 0.16779409493463499,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8543639666135612,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0457",
+        "name": "Idorsia",
+        "website": "idorsia.com",
+        "country": "Switzerland",
+        "final_score": 0.7074825539771842,
+        "lexical_score": 0.1642358685062404,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8537412769885921,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0472",
+        "name": "TRB Chemedica",
+        "website": "trbchemedica.com",
+        "country": "Switzerland",
+        "final_score": 0.7060782924131666,
+        "lexical_score": 0.16022369260904729,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8530391462065833,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0475",
+        "name": "Tillotts Pharma",
+        "website": "tillotts.com",
+        "country": "Switzerland",
+        "final_score": 0.7059712200108271,
+        "lexical_score": 0.15991777145950611,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8529856100054136,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0471",
+        "name": "Helsinn",
+        "website": "helsinn.com",
+        "country": "Switzerland",
+        "final_score": 0.7041324464955788,
+        "lexical_score": 0.15466413284451072,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8520662232477894,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0461",
+        "name": "Alcon",
+        "website": "aeriepharma.com",
+        "country": "Switzerland",
+        "final_score": 0.7033874510237497,
+        "lexical_score": 0.15253557435357054,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8516937255118748,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "B2B SaaS companies providing HR solutions in Europe",
+    "results": [
+      {
+        "record_id": "company-0073",
+        "name": "Personio",
+        "website": null,
+        "country": "Germany",
+        "final_score": 0.7096659662834903,
+        "lexical_score": 0.17047418938140096,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8548329831417452,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0108",
+        "name": "Jooma",
+        "website": "jooma-paye.fr",
+        "country": "France",
+        "final_score": 0.7065248649394643,
+        "lexical_score": 0.16149961411275504,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8532624324697322,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0089",
+        "name": "Foederis",
+        "website": "foederis.ch",
+        "country": "Switzerland",
+        "final_score": 0.7046194126583154,
+        "lexical_score": 0.15605546473804394,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8523097063291577,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0070",
+        "name": "Kapsoon",
+        "website": "kapsoon.io",
+        "country": "France",
+        "final_score": 0.6994680481674236,
+        "lexical_score": 0.14133728047835306,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8497340240837118,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0072",
+        "name": "Asys",
+        "website": "asys.fr",
+        "country": "France",
+        "final_score": 0.6846937531081716,
+        "lexical_score": 0.0991250088804903,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8423468765540858,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0102",
+        "name": "uMan Xpert",
+        "website": "uman.pt",
+        "country": "Portugal",
+        "final_score": 0.6807777655447582,
+        "lexical_score": 0.08793647298502327,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8403888827723791,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0066",
+        "name": "Sincron HR",
+        "website": "sincronhr.com",
+        "country": "Romania",
+        "final_score": 0.6650467994644134,
+        "lexical_score": 0.04299085561260957,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8325233997322067,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0083",
+        "name": "Sesame HR",
+        "website": "sesamehr.pt",
+        "country": "Spain",
+        "final_score": 0.6648400200817892,
+        "lexical_score": 0.04240005737654045,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8324200100408946,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0094",
+        "name": "Paychex",
+        "website": "paychex.de",
+        "country": "Germany",
+        "final_score": 0.6635689082988625,
+        "lexical_score": 0.03876830942532126,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8317844541494313,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0093",
+        "name": "Sesame HR",
+        "website": "sesamehr.com.br",
+        "country": "Spain",
+        "final_score": 0.6631530017710261,
+        "lexical_score": 0.0375800050600744,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.831576500885513,
+        "matched_constraints": [
+          "location",
+          "saas",
+          "b2b",
+          "target_market:human resources"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+    "results": [
+      {
+        "record_id": "company-0317",
+        "name": "Styri",
+        "website": "styri.eu",
+        "country": "Norway",
+        "final_score": 0.6710971927571077,
+        "lexical_score": 0.060277693591736105,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8355485963785538,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0312",
+        "name": "Energy-Technik",
+        "website": "energy-technik.com",
+        "country": "Egypt",
+        "final_score": 0.6690388788078737,
+        "lexical_score": 0.05439679659392484,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8345194394039368,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0173",
+        "name": "Norhybrid Renewables",
+        "website": "norhybrid.com",
+        "country": "Norway",
+        "final_score": 0.6662088858592962,
+        "lexical_score": 0.04631110245513171,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8331044429296481,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0415",
+        "name": "Norhybrid Renewables",
+        "website": "norhybrid.com",
+        "country": "Norway",
+        "final_score": 0.6662088858592962,
+        "lexical_score": 0.04631110245513171,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8331044429296481,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0329",
+        "name": "NextGEN Energy",
+        "website": "nextgen-energy.eu",
+        "country": "Italy",
+        "final_score": 0.6534793567983451,
+        "lexical_score": 0.0099410194238431,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8267396783991725,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0309",
+        "name": "ValfryX",
+        "website": "valfryx.com",
+        "country": "Spain",
+        "final_score": 0.6534382712324357,
+        "lexical_score": 0.009823632092673274,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8267191356162178,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0421",
+        "name": "Alotta",
+        "website": "alotta.no",
+        "country": "Norway",
+        "final_score": 0.6528789103400269,
+        "lexical_score": 0.00822545811436242,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8264394551700134,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0291",
+        "name": "Volta Capital",
+        "website": "voltacapital.it",
+        "country": "Italy",
+        "final_score": 0.6528120281324725,
+        "lexical_score": 0.008034366092778458,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8264060140662363,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0207",
+        "name": "Krefter",
+        "website": "krefter.no",
+        "country": "Norway",
+        "final_score": 0.652261344155895,
+        "lexical_score": 0.006460983302557028,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8261306720779475,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0190",
+        "name": "World Wide Wind",
+        "website": "worldwidewind.no",
+        "country": "Norway",
+        "final_score": 0.6522578248092391,
+        "lexical_score": 0.006450928026397321,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8261289124046196,
+        "matched_constraints": [
+          "industry",
+          "employee_count",
+          "year_founded"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+    "results": [
+      {
+        "record_id": "company-0063",
+        "name": "European Pay",
+        "website": "european-pay.fr",
+        "country": "France",
+        "final_score": 0.19294254651744167,
+        "lexical_score": 0.0869787043355476,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5964712732587208,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0050",
+        "name": "FGC Money Transfer",
+        "website": "fgcexchange.co.uk",
+        "country": "United Kingdom",
+        "final_score": 0.17559809330334195,
+        "lexical_score": 0.037423123723834086,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5877990466516709,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0057",
+        "name": "Credito21",
+        "website": "credito21.es",
+        "country": "Spain",
+        "final_score": 0.17546356772299912,
+        "lexical_score": 0.03703876492285459,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5877317838614996,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0052",
+        "name": "Salauddin Global Trading",
+        "website": "salauddinglobal.co.uk",
+        "country": "United Kingdom",
+        "final_score": 0.17274407794057475,
+        "lexical_score": 0.029268794115927834,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5863720389702873,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0056",
+        "name": "Phin",
+        "website": "phintech.de",
+        "country": "Germany",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0055",
+        "name": "New Payment Innovation",
+        "website": "npi.ie",
+        "country": "Ireland",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0045",
+        "name": "Mangal Money Transfer",
+        "website": "mangalmoneytransfer.co.uk",
+        "country": "United Kingdom",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0058",
+        "name": "Folio",
+        "website": "folio.no",
+        "country": "Norway",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0048",
+        "name": "EasyKassa",
+        "website": "easykassa.at",
+        "country": "Austria",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0049",
+        "name": "City Exchange",
+        "website": "sarafishahr.co.uk",
+        "country": "United Kingdom",
+        "final_score": 0.1625,
+        "lexical_score": 0.0,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.58125,
+        "matched_constraints": [
+          "location",
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "growth",
+          "bank_competition"
+        ],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "E-commerce companies using Shopify or similar platforms",
+    "results": [
+      {
+        "record_id": "company-0048",
+        "name": "EasyKassa",
+        "website": "easykassa.at",
+        "country": "Austria",
+        "final_score": 0.1882808385503511,
+        "lexical_score": 0.07365953871528882,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5941404192751756,
+        "matched_constraints": [
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0215",
+        "name": "Walmart",
+        "website": "walmart.com",
+        "country": "United States",
+        "final_score": 0.17496322382120313,
+        "lexical_score": 0.035609210917723254,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5874816119106016,
+        "matched_constraints": [
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0021",
+        "name": "Brasov Industrial Portfolio",
+        "website": "brasov-industrialportfolio.ro",
+        "country": "Romania",
+        "final_score": 0.17408975971181215,
+        "lexical_score": 0.0331135991766061,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.587044879855906,
+        "matched_constraints": [
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0234",
+        "name": "DrinkAriZona",
+        "website": "drinkarizona.com",
+        "country": "United States",
+        "final_score": 0.16950056644429504,
+        "lexical_score": 0.02000161841227149,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5847502832221475,
+        "matched_constraints": [
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0238",
+        "name": "PEZ Candy",
+        "website": "pez.com",
+        "country": "United States",
+        "final_score": 0.16873268525279558,
+        "lexical_score": 0.01780767215084449,
+        "evidence_score": 0.25,
+        "decision": "possible",
+        "confidence": 0.5843663426263978,
+        "matched_constraints": [
+          "industry"
+        ],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0117",
+        "name": "Simplismart",
+        "website": "simplismart.ai",
+        "country": "India",
+        "final_score": -0.3108515080980397,
+        "lexical_score": 0.04042426257702955,
+        "evidence_score": -0.5,
+        "decision": "possible",
+        "confidence": 0.3445742459509802,
+        "matched_constraints": [],
+        "uncertain_constraints": [
+          "industry",
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0276",
+        "name": "Telefónica Venture Builder",
+        "website": "telefonica.com",
+        "country": "Spain",
+        "final_score": -0.31555002972092916,
+        "lexical_score": 0.026999915083059642,
+        "evidence_score": -0.5,
+        "decision": "possible",
+        "confidence": 0.3422249851395354,
+        "matched_constraints": [],
+        "uncertain_constraints": [
+          "industry",
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0059",
+        "name": "Ariv Pay",
+        "website": "arivpay.com",
+        "country": "United Kingdom",
+        "final_score": -0.31651684151198234,
+        "lexical_score": 0.024237595680050524,
+        "evidence_score": -0.5,
+        "decision": "possible",
+        "confidence": 0.34174157924400883,
+        "matched_constraints": [],
+        "uncertain_constraints": [
+          "industry",
+          "platform_usage"
+        ],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0266",
+        "name": "Flextribe",
+        "website": "flextribe.co",
+        "country": "United States",
+        "final_score": -0.7750864790808779,
+        "lexical_score": 0.07118148834034899,
+        "evidence_score": -1.0,
+        "decision": "possible",
+        "confidence": 0.11245676045956104,
+        "matched_constraints": [],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": [
+          "industry"
+        ]
+      },
+      {
+        "record_id": "company-0289",
+        "name": "Mon BE Fluides",
+        "website": "monbefluides.fr",
+        "country": "France",
+        "final_score": -0.7751695607721844,
+        "lexical_score": 0.07094411207947339,
+        "evidence_score": -1.0,
+        "decision": "possible",
+        "confidence": 0.11241521961390782,
+        "matched_constraints": [],
+        "uncertain_constraints": [
+          "platform_usage"
+        ],
+        "violated_constraints": [
+          "industry"
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Renewable energy equipment manufacturers in Scandinavia",
+    "results": [
+      {
+        "record_id": "company-0438",
+        "name": "BayWa r.e. Scandinavia",
+        "website": null,
+        "country": "Sweden",
+        "final_score": 0.7766457721453721,
+        "lexical_score": 0.36184506327249155,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8883228860726861,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0187",
+        "name": "Next Fabrication",
+        "website": "nextfabrication.com",
+        "country": "Denmark",
+        "final_score": 0.6916525400068794,
+        "lexical_score": 0.11900725716251251,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8458262700034397,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0408",
+        "name": "Next Fabrication",
+        "website": "nextfabrication.com",
+        "country": "Denmark",
+        "final_score": 0.6916525400068794,
+        "lexical_score": 0.11900725716251251,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8458262700034397,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0185",
+        "name": "Carita och Torbjörn",
+        "website": "cktl.se",
+        "country": "Sweden",
+        "final_score": 0.6876058793432037,
+        "lexical_score": 0.1074453695520106,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8438029396716018,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0433",
+        "name": "Carita och Torbjörn",
+        "website": "cktl.se",
+        "country": "Sweden",
+        "final_score": 0.6876058793432037,
+        "lexical_score": 0.1074453695520106,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8438029396716018,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0176",
+        "name": "ENERCON",
+        "website": null,
+        "country": "Sweden",
+        "final_score": 0.6869930217609325,
+        "lexical_score": 0.10569434788837852,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8434965108804662,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0441",
+        "name": "ENERCON",
+        "website": null,
+        "country": "Sweden",
+        "final_score": 0.6869930217609325,
+        "lexical_score": 0.10569434788837852,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8434965108804662,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0437",
+        "name": "Home Energy",
+        "website": "homeenergy.se",
+        "country": "Sweden",
+        "final_score": 0.6832573991548876,
+        "lexical_score": 0.09502114044253605,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8416286995774438,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0171",
+        "name": "Ventum Dynamics",
+        "website": "ventumdynamics.com",
+        "country": "Norway",
+        "final_score": 0.6828385337291702,
+        "lexical_score": 0.0938243820833434,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8414192668645851,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0172",
+        "name": "Rögle Vindkraftpark",
+        "website": null,
+        "country": "Sweden",
+        "final_score": 0.681948910412607,
+        "lexical_score": 0.09128260117887696,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8409744552063034,
+        "matched_constraints": [
+          "location",
+          "industry",
+          "role:manufacturer"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  },
+  {
+    "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+    "results": [
+      {
+        "record_id": "company-0377",
+        "name": "ReFire_ev",
+        "website": null,
+        "country": "India",
+        "final_score": 0.7303473713089718,
+        "lexical_score": 0.2295639180256335,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8651736856544858,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0356",
+        "name": "Charge CCCV",
+        "website": "chargecccv.com",
+        "country": "United States",
+        "final_score": 0.7120283879526914,
+        "lexical_score": 0.17722396557911838,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8560141939763457,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0348",
+        "name": "RJETech",
+        "website": "rjetech.com",
+        "country": "China",
+        "final_score": 0.7084397015051813,
+        "lexical_score": 0.16697057572908952,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8542198507525907,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0369",
+        "name": "Anda Technology",
+        "website": "ad-lib.cn",
+        "country": "China",
+        "final_score": 0.707495369639908,
+        "lexical_score": 0.1642724846854514,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.853747684819954,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0337",
+        "name": "SolidEdge Solution",
+        "website": "solidedgesolution.com",
+        "country": "Taiwan",
+        "final_score": 0.7066640152213018,
+        "lexical_score": 0.16189718634657665,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.853332007610651,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0339",
+        "name": "RJETech",
+        "website": null,
+        "country": "China",
+        "final_score": 0.7066388010591356,
+        "lexical_score": 0.16182514588324445,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8533194005295678,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0296",
+        "name": "GT Solve",
+        "website": "globaltechsolve.com",
+        "country": "India",
+        "final_score": 0.7009258795040426,
+        "lexical_score": 0.14550251286869306,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8504629397520214,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0347",
+        "name": "Dongdao New Energy",
+        "website": "dongdaochina.cn",
+        "country": "China",
+        "final_score": 0.6997934825695692,
+        "lexical_score": 0.14226709305591206,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8498967412847847,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0378",
+        "name": "Stratus Materials",
+        "website": "stratusmaterials.com",
+        "country": "United States",
+        "final_score": 0.6995104252661279,
+        "lexical_score": 0.14145835790322264,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.849755212633064,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      },
+      {
+        "record_id": "company-0375",
+        "name": "Greenbatt Technology",
+        "website": "greenbatt.ch",
+        "country": "Switzerland",
+        "final_score": 0.6987246682070778,
+        "lexical_score": 0.139213337734508,
+        "evidence_score": 1.0,
+        "decision": "match",
+        "confidence": 0.8493623341035389,
+        "matched_constraints": [
+          "industry",
+          "role:manufacturer_or_supplier"
+        ],
+        "uncertain_constraints": [],
+        "violated_constraints": []
+      }
+    ]
+  }
+]

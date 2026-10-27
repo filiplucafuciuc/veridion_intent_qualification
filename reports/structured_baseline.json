@@ -1,0 +1,3335 @@
+[
+  {
+    "query": "Logistic companies in Romania",
+    "parsed": {
+      "industries": [
+        "logistics"
+      ],
+      "countries": [
+        "ro"
+      ],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0020",
+        "name": "Valbur",
+        "website": "vt-i.eu",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0022",
+        "name": "STILL",
+        "website": "still.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0013",
+        "name": "Romgaz",
+        "website": "romgaz.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0011",
+        "name": "Portul Constanta",
+        "website": "portofconstantza.com",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0017",
+        "name": "OSCAR",
+        "website": "oscars.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0006",
+        "name": "OMV",
+        "website": "omv.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0014",
+        "name": "METRO România",
+        "website": "metro.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0010",
+        "name": "Fildas Trading",
+        "website": "fildas.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0007",
+        "name": "Compania Națională de Căi Ferate CFR",
+        "website": "cfr.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0021",
+        "name": "Brasov Industrial Portfolio",
+        "website": "brasov-industrialportfolio.ro",
+        "country": "Romania",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ro"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: logistics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Public software companies with more than 1,000 employees.",
+    "parsed": {
+      "industries": [
+        "software"
+      ],
+      "countries": [],
+      "regions": {},
+      "numeric_constraints": [
+        {
+          "field": "employee_count",
+          "operator": ">",
+          "value": 1000.0
+        }
+      ],
+      "required_attributes": {
+        "is_public": true
+      }
+    },
+    "results": [
+      {
+        "record_id": "company-0271",
+        "name": "Wipro",
+        "website": "wipro.com",
+        "country": "India",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "233346 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0285",
+        "name": "Tietoevry",
+        "website": "tietoevry.com",
+        "country": "Finland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "23632 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0276",
+        "name": "Telefónica Venture Builder",
+        "website": "telefonica.com",
+        "country": "Spain",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "100870 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0268",
+        "name": "Tata Consultancy Services",
+        "website": "tcs.com",
+        "country": "India",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "607979 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0284",
+        "name": "SAIC",
+        "website": "saic.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "25000 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0273",
+        "name": "NTT DATA",
+        "website": "nttdata.com",
+        "country": "Japan",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "195100 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0282",
+        "name": "Mphasis",
+        "website": "mphasis.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "31645 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0280",
+        "name": "Leidos",
+        "website": "leidos.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "48000 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0283",
+        "name": "Globant",
+        "website": "globant.com",
+        "country": "Luxembourg",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "29150 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0274",
+        "name": "Genpact",
+        "website": "genpact.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: software"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "125000 > 1000"
+          },
+          {
+            "name": "is_public",
+            "state": "satisfied",
+            "evidence": "value=True"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Food and beverage manufacturers in France",
+    "parsed": {
+      "industries": [
+        "food and beverage"
+      ],
+      "countries": [
+        "fr"
+      ],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0385",
+        "name": "Yumi",
+        "website": "yumi.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0399",
+        "name": "Riviera Kombucha",
+        "website": "rivierakombucha.com",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0383",
+        "name": "Paniers d'Eve",
+        "website": null,
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0388",
+        "name": "MILHADE Vins & Spiritueux",
+        "website": null,
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0381",
+        "name": "La Péro",
+        "website": "la-pero.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0389",
+        "name": "La Limonaderie de Paris",
+        "website": "lalimonaderiedeparis.com",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0384",
+        "name": "LA MULTILOCALE",
+        "website": "lamultilocale.org",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0382",
+        "name": "L'Essinganaise",
+        "website": "lessinganaise.com",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0395",
+        "name": "Kermené",
+        "website": "kermene.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0392",
+        "name": "INOU",
+        "website": "inou.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: food and beverage"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+    "parsed": {
+      "industries": [
+        "packaging"
+      ],
+      "countries": [],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0262",
+        "name": "Yijie Packaging",
+        "website": "yijiepackaging.en.alibaba.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0257",
+        "name": "YONWOO",
+        "website": "yonwookorea.com",
+        "country": "South Korea",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0256",
+        "name": "Wenjing Packaging",
+        "website": "wenjingpack.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0267",
+        "name": "Sunshine Packaging",
+        "website": "hzshengsha.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0265",
+        "name": "Standard Mold",
+        "website": "standardmold.co.kr",
+        "country": "South Korea",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0252",
+        "name": "Silver Spur",
+        "website": "silverspurcorp.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0263",
+        "name": "Shenzhen Itop Cosmetic Packaging",
+        "website": "itoppacking.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0259",
+        "name": "Shanghai Bochen Cosmetic Packaging",
+        "website": "cncosmeticbottles.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0255",
+        "name": "SHEACK Packaging",
+        "website": "sheackpkg.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0261",
+        "name": "Ningbo Onson",
+        "website": "onsonpackaging.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: packaging"
+          },
+          {
+            "name": "role:supplier",
+            "state": "satisfied",
+            "evidence": "supplier evidence"
+          },
+          {
+            "name": "target_market:cosmetics",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Construction companies in the United States with revenue over $50 million",
+    "parsed": {
+      "industries": [
+        "construction"
+      ],
+      "countries": [
+        "us"
+      ],
+      "regions": {},
+      "numeric_constraints": [
+        {
+          "field": "revenue",
+          "operator": ">",
+          "value": 50000000.0
+        }
+      ],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0036",
+        "name": "Versar",
+        "website": "jmwaller.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.08118e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0041",
+        "name": "Versar",
+        "website": "geo-marine.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.03293e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0040",
+        "name": "Tutor Perini",
+        "website": "tutorperini.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.06536e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0043",
+        "name": "Trusted Solutions Group",
+        "website": "tsg28.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "9.90249e+09 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0035",
+        "name": "Skanska",
+        "website": "skanska.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.13324e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0032",
+        "name": "Quanta Services",
+        "website": "quantaservices.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.35027e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0029",
+        "name": "Lemartec",
+        "website": "lemartec.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.57797e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0028",
+        "name": "Kiewit",
+        "website": "kiewit.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.63109e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0038",
+        "name": "Halmar International",
+        "website": "halmarinternational.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.07762e+10 > 5e+07"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0039",
+        "name": "Focus Civil Construction Group",
+        "website": "focuscivil.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: us"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: construction"
+          },
+          {
+            "name": "revenue",
+            "state": "satisfied",
+            "evidence": "1.07055e+10 > 5e+07"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Pharmaceutical companies in Switzerland",
+    "parsed": {
+      "industries": [
+        "pharmaceutical"
+      ],
+      "countries": [
+        "ch"
+      ],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0475",
+        "name": "Tillotts Pharma",
+        "website": "tillotts.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0463",
+        "name": "Teoxane",
+        "website": "teoxane.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0472",
+        "name": "TRB Chemedica",
+        "website": "trbchemedica.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0450",
+        "name": "Sumitomo Pharma Switzerland",
+        "website": "sumitomo-pharma.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0458",
+        "name": "Stallergenes Greer",
+        "website": "stallergenesgreer.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0452",
+        "name": "Siegfried",
+        "website": "siegfried.ch",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0456",
+        "name": "PolyPeptide",
+        "website": "polypeptide.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0453",
+        "name": "PSI CRO",
+        "website": "psi-cro.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0446",
+        "name": "Octapharma",
+        "website": "octapharma.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0464",
+        "name": "OM Pharma",
+        "website": "ompharma.com",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ch"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: pharmaceutical"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "B2B SaaS companies providing HR solutions in Europe",
+    "parsed": {
+      "industries": [],
+      "countries": [
+        "at",
+        "be",
+        "ch",
+        "de",
+        "dk",
+        "es",
+        "fi",
+        "fr",
+        "gb",
+        "gr",
+        "hr",
+        "ie",
+        "is",
+        "it",
+        "lt",
+        "lu",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "se",
+        "ua"
+      ],
+      "regions": {
+        "europe": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "hr",
+          "ie",
+          "is",
+          "it",
+          "lt",
+          "lu",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "se",
+          "ua"
+        ]
+      },
+      "numeric_constraints": [],
+      "required_attributes": {
+        "saas": true,
+        "b2b": true
+      }
+    },
+    "results": [
+      {
+        "record_id": "company-0102",
+        "name": "uMan Xpert",
+        "website": "uman.pt",
+        "country": "Portugal",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: pt"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0074",
+        "name": "quarksUp",
+        "website": "quarksup.com",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0081",
+        "name": "Visma YouServe",
+        "website": "youserve.nl",
+        "country": "Netherlands",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: nl"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0084",
+        "name": "Virtualia",
+        "website": "virtualia.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0111",
+        "name": "UK HR Cloud",
+        "website": "ukhrcloud.com",
+        "country": "United Kingdom",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: gb"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0099",
+        "name": "Trakstar",
+        "website": "trakstar.nl",
+        "country": "Netherlands",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: nl"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0079",
+        "name": "Toba HR Solutions",
+        "website": "tobahrsolutions.be",
+        "country": "Belgium",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: be"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0101",
+        "name": "Tenea Talent",
+        "website": "teneatalent.com",
+        "country": "Spain",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: es"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0095",
+        "name": "Sun RH",
+        "website": "sun-e.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0098",
+        "name": "Staff & Go",
+        "website": "staffngo.com",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "saas",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "b2b",
+            "state": "satisfied",
+            "evidence": "business_model"
+          },
+          {
+            "name": "target_market:human resources",
+            "state": "satisfied",
+            "evidence": "target-market evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+    "parsed": {
+      "industries": [
+        "clean energy"
+      ],
+      "countries": [],
+      "regions": {},
+      "numeric_constraints": [
+        {
+          "field": "employee_count",
+          "operator": "<",
+          "value": 200.0
+        },
+        {
+          "field": "year_founded",
+          "operator": ">",
+          "value": 2018.0
+        }
+      ],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0305",
+        "name": "visusta",
+        "website": "visusta.ch",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "2 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0288",
+        "name": "Yeşil Bir Gelecek",
+        "website": "yesilbirgelecek.com",
+        "country": "Turkey",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "1 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0190",
+        "name": "World Wide Wind",
+        "website": "worldwidewind.no",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "6 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2021 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0424",
+        "name": "World Wide Wind",
+        "website": "worldwidewind.no",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "6 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2021 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0200",
+        "name": "WindSpider",
+        "website": "windspider.com",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "10 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2020 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0442",
+        "name": "WindSpider",
+        "website": "windspider.com",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "10 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2020 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0311",
+        "name": "WBS Mobility",
+        "website": "e-way24.pl",
+        "country": "Poland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "10 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0291",
+        "name": "Volta Capital",
+        "website": "voltacapital.it",
+        "country": "Italy",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "1 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0309",
+        "name": "ValfryX",
+        "website": "valfryx.com",
+        "country": "Spain",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "17 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0317",
+        "name": "Styri",
+        "website": "styri.eu",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: clean energy"
+          },
+          {
+            "name": "employee_count",
+            "state": "satisfied",
+            "evidence": "4 < 200"
+          },
+          {
+            "name": "year_founded",
+            "state": "satisfied",
+            "evidence": "2025 > 2018"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+    "parsed": {
+      "industries": [
+        "fintech"
+      ],
+      "countries": [
+        "at",
+        "be",
+        "ch",
+        "de",
+        "dk",
+        "es",
+        "fi",
+        "fr",
+        "gb",
+        "gr",
+        "hr",
+        "ie",
+        "is",
+        "it",
+        "lt",
+        "lu",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "se",
+        "ua"
+      ],
+      "regions": {
+        "europe": [
+          "at",
+          "be",
+          "ch",
+          "de",
+          "dk",
+          "es",
+          "fi",
+          "fr",
+          "gb",
+          "gr",
+          "hr",
+          "ie",
+          "is",
+          "it",
+          "lt",
+          "lu",
+          "nl",
+          "no",
+          "pl",
+          "pt",
+          "ro",
+          "se",
+          "ua"
+        ]
+      },
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0184",
+        "name": "Varmalämmitys",
+        "website": "varmalammitys.fi",
+        "country": "Finland",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fi"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0064",
+        "name": "VIP Exchange",
+        "website": "vipexchange.uk",
+        "country": "United Kingdom",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: gb"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0052",
+        "name": "Salauddin Global Trading",
+        "website": "salauddinglobal.co.uk",
+        "country": "United Kingdom",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: gb"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0056",
+        "name": "Phin",
+        "website": "phintech.de",
+        "country": "Germany",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: de"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0055",
+        "name": "New Payment Innovation",
+        "website": "npi.ie",
+        "country": "Ireland",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: ie"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0045",
+        "name": "Mangal Money Transfer",
+        "website": "mangalmoneytransfer.co.uk",
+        "country": "United Kingdom",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: gb"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0058",
+        "name": "Folio",
+        "website": "folio.no",
+        "country": "Norway",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0050",
+        "name": "FGC Money Transfer",
+        "website": "fgcexchange.co.uk",
+        "country": "United Kingdom",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: gb"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0063",
+        "name": "European Pay",
+        "website": "european-pay.fr",
+        "country": "France",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: fr"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0048",
+        "name": "EasyKassa",
+        "website": "easykassa.at",
+        "country": "Austria",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: at"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: fintech"
+          },
+          {
+            "name": "growth",
+            "state": "unknown",
+            "evidence": "no historical growth series in the dataset"
+          },
+          {
+            "name": "bank_competition",
+            "state": "unknown",
+            "evidence": "relationship evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "E-commerce companies using Shopify or similar platforms",
+    "parsed": {
+      "industries": [
+        "e-commerce"
+      ],
+      "countries": [],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0215",
+        "name": "Walmart",
+        "website": "walmart.com",
+        "country": "United States",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0016",
+        "name": "Poșta Română",
+        "website": "posta-romana.ro",
+        "country": "Romania",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0238",
+        "name": "PEZ Candy",
+        "website": "pez.com",
+        "country": "United States",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0048",
+        "name": "EasyKassa",
+        "website": "easykassa.at",
+        "country": "Austria",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0234",
+        "name": "DrinkAriZona",
+        "website": "drinkarizona.com",
+        "country": "United States",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0021",
+        "name": "Brasov Industrial Portfolio",
+        "website": "brasov-industrialportfolio.ro",
+        "country": "Romania",
+        "score": 0.25,
+        "decision": "possible",
+        "confidence": 0.625,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0276",
+        "name": "Telefónica Venture Builder",
+        "website": "telefonica.com",
+        "country": "Spain",
+        "score": -0.5,
+        "decision": "possible",
+        "confidence": 0.25,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "unknown",
+            "evidence": "Only target-market evidence: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0117",
+        "name": "Simplismart",
+        "website": "simplismart.ai",
+        "country": "India",
+        "score": -0.5,
+        "decision": "possible",
+        "confidence": 0.25,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "unknown",
+            "evidence": "Only target-market evidence: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0059",
+        "name": "Ariv Pay",
+        "website": "arivpay.com",
+        "country": "United Kingdom",
+        "score": -0.5,
+        "decision": "possible",
+        "confidence": 0.25,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "unknown",
+            "evidence": "Only target-market evidence: e-commerce"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0179",
+        "name": "windainergy",
+        "website": "windainergy.com",
+        "country": "Sweden",
+        "score": -1.25,
+        "decision": "reject",
+        "confidence": 0.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "violated",
+            "evidence": "No requested industry evidence"
+          },
+          {
+            "name": "platform_usage",
+            "state": "unknown",
+            "evidence": "technology evidence"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Renewable energy equipment manufacturers in Scandinavia",
+    "parsed": {
+      "industries": [
+        "renewable energy"
+      ],
+      "countries": [
+        "dk",
+        "no",
+        "se"
+      ],
+      "regions": {
+        "scandinavia": [
+          "dk",
+          "no",
+          "se"
+        ]
+      },
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0179",
+        "name": "windainergy",
+        "website": "windainergy.com",
+        "country": "Sweden",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: se"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0405",
+        "name": "windainergy",
+        "website": "windainergy.com",
+        "country": "Sweden",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: se"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0190",
+        "name": "World Wide Wind",
+        "website": "worldwidewind.no",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0424",
+        "name": "World Wide Wind",
+        "website": "worldwidewind.no",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0200",
+        "name": "WindSpider",
+        "website": "windspider.com",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0442",
+        "name": "WindSpider",
+        "website": "windspider.com",
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0168",
+        "name": "Wave Dragon",
+        "website": "wavedragon.com",
+        "country": "Denmark",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: dk"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0432",
+        "name": "Wave Dragon",
+        "website": "wavedragon.com",
+        "country": "Denmark",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: dk"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0182",
+        "name": "Vestas",
+        "website": "vestas.com",
+        "country": "Denmark",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: dk"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0203",
+        "name": "Verta",
+        "website": null,
+        "country": "Norway",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "location",
+            "state": "satisfied",
+            "evidence": "Country code: no"
+          },
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: renewable energy"
+          },
+          {
+            "name": "role:manufacturer",
+            "state": "satisfied",
+            "evidence": "business_model"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+    "parsed": {
+      "industries": [
+        "electric vehicle",
+        "battery"
+      ],
+      "countries": [],
+      "regions": {},
+      "numeric_constraints": [],
+      "required_attributes": {}
+    },
+    "results": [
+      {
+        "record_id": "company-0305",
+        "name": "visusta",
+        "website": "visusta.ch",
+        "country": "Switzerland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0102",
+        "name": "uMan Xpert",
+        "website": "uman.pt",
+        "country": "Portugal",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0163",
+        "name": "ai2device",
+        "website": "ai2device.com",
+        "country": "Poland",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0129",
+        "name": "ZoKorp",
+        "website": "zokorp.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0353",
+        "name": "Zhejiang Shengmei Lithium Battery Materials",
+        "website": "zjsmld.com",
+        "country": "China",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle, battery"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0118",
+        "name": "ZenML",
+        "website": "zenml.io",
+        "country": "Germany",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0159",
+        "name": "ZenLabs",
+        "website": "zenlabs.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0107",
+        "name": "Zellis",
+        "website": "zellis.com",
+        "country": "United Kingdom",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0379",
+        "name": "Zakuro",
+        "website": "zakurobattery.com",
+        "country": "United States",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle, battery"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      },
+      {
+        "record_id": "company-0385",
+        "name": "Yumi",
+        "website": "yumi.fr",
+        "country": "France",
+        "score": 1.0,
+        "decision": "match",
+        "confidence": 1.0,
+        "constraints": [
+          {
+            "name": "industry",
+            "state": "satisfied",
+            "evidence": "Matched: electric vehicle"
+          },
+          {
+            "name": "role:manufacturer_or_supplier",
+            "state": "satisfied",
+            "evidence": "either manufacturing or supplier evidence"
+          }
+        ]
+      }
+    ]
+  }
+]

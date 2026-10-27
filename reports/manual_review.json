@@ -1,0 +1,125 @@
+{
+  "instructions": {
+    "label_scale": {
+      "2": "strong match: satisfies the explicit constraints and the intended company role",
+      "1": "plausible or partial match: useful candidate but evidence is incomplete or indirect",
+      "0": "irrelevant or contradicted by the query"
+    },
+    "evidence_rule": "Only label from fields in companies.jsonl. Do not infer facts that are not supported by the record.",
+    "confidence_rule": "Use high only for explicit evidence, medium for reasonable inference, and low for ambiguous or missing evidence."
+  },
+  "reviews": [
+    {
+      "query": "Logistic companies in Romania",
+      "record_id": "company-0014",
+      "label": 1,
+      "confidence": "medium",
+      "evidence": "Romanian wholesaler with an explicit logistics and supply-chain offering, but primary NAICS is grocery wholesaling.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Logistic companies in Romania",
+      "record_id": "company-0022",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Romanian industrial-truck manufacturer with intralogistics, warehouse, and logistics-system offerings.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Public software companies with more than 1,000 employees.",
+      "record_id": "company-0268",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Public computer systems/software company with 607,979 employees.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Food and beverage manufacturers in France",
+      "record_id": "company-0387",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "French food manufacturer with food-processing offerings and Manufacturing business model.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+      "record_id": "company-0264",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Manufactures and wholesales cosmetic packaging and serves cosmetics customers.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+      "record_id": "company-0255",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Packaging manufacturer with cosmetics/personal-care markets and distribution offerings.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+      "record_id": "company-0266",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Manufactures reusable packaging, serves cosmetics, and explicitly offers direct-to-consumer packaging.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Construction companies in the United States with revenue over $50 million",
+      "record_id": "company-0035",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "US construction company with revenue above the threshold.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Pharmaceutical companies in Switzerland",
+      "record_id": "company-0450",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Swiss pharmaceutical preparation manufacturer.",
+      "method": "hybrid"
+    },
+    {
+      "query": "B2B SaaS companies providing HR solutions in Europe",
+      "record_id": "company-0073",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "European B2B SaaS company with Human Resources target market.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+      "record_id": "company-0063",
+      "label": 1,
+      "confidence": "medium",
+      "evidence": "European payment/fintech company, but the record lacks historical growth data and explicit competition evidence.",
+      "method": "hybrid"
+    },
+    {
+      "query": "E-commerce companies using Shopify or similar platforms",
+      "record_id": "company-0048",
+      "label": 1,
+      "confidence": "medium",
+      "evidence": "E-commerce/payment company, but Shopify or another platform is not confirmed by the record.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Renewable energy equipment manufacturers in Scandinavia",
+      "record_id": "company-0438",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Swedish renewable-energy equipment company with manufacturing evidence.",
+      "method": "hybrid"
+    },
+    {
+      "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+      "record_id": "company-0377",
+      "label": 2,
+      "confidence": "high",
+      "evidence": "Battery-related manufacturer with component/product evidence relevant to EV batteries.",
+      "method": "hybrid"
+    }
+  ]
+}

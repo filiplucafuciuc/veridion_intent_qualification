@@ -1,0 +1,773 @@
+{
+  "record_count": 477,
+  "field_coverage": {
+    "address": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "business_model": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "core_offerings": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "description": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "employee_count": {
+      "present": 289,
+      "null": 188,
+      "empty": 0
+    },
+    "is_public": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "operational_name": {
+      "present": 475,
+      "null": 2,
+      "empty": 0
+    },
+    "primary_naics": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "revenue": {
+      "present": 384,
+      "null": 93,
+      "empty": 0
+    },
+    "secondary_naics": {
+      "present": 11,
+      "null": 466,
+      "empty": 0
+    },
+    "target_markets": {
+      "present": 477,
+      "null": 0,
+      "empty": 0
+    },
+    "website": {
+      "present": 439,
+      "null": 38,
+      "empty": 0
+    },
+    "year_founded": {
+      "present": 346,
+      "null": 131,
+      "empty": 0
+    }
+  },
+  "raw_types": {
+    "address": {
+      "str": 64,
+      "dict": 413
+    },
+    "primary_naics": {
+      "str": 64,
+      "dict": 413
+    },
+    "secondary_naics": {
+      "NoneType": 466,
+      "dict": 11
+    }
+  },
+  "country_counts": [
+    [
+      "us",
+      86
+    ],
+    [
+      "ch",
+      43
+    ],
+    [
+      "fr",
+      40
+    ],
+    [
+      "cn",
+      35
+    ],
+    [
+      "se",
+      31
+    ],
+    [
+      "gb",
+      27
+    ],
+    [
+      "no",
+      27
+    ],
+    [
+      "ro",
+      26
+    ],
+    [
+      "dk",
+      26
+    ],
+    [
+      "es",
+      19
+    ],
+    [
+      "fi",
+      13
+    ],
+    [
+      "de",
+      12
+    ],
+    [
+      "in",
+      11
+    ],
+    [
+      "nl",
+      8
+    ],
+    [
+      "au",
+      8
+    ],
+    [
+      "ca",
+      8
+    ],
+    [
+      "it",
+      5
+    ],
+    [
+      "ie",
+      4
+    ],
+    [
+      "sg",
+      4
+    ],
+    [
+      "is",
+      4
+    ],
+    [
+      "kr",
+      4
+    ],
+    [
+      "be",
+      3
+    ],
+    [
+      "pl",
+      3
+    ],
+    [
+      "lu",
+      3
+    ],
+    [
+      "at",
+      2
+    ],
+    [
+      "pt",
+      2
+    ],
+    [
+      "br",
+      2
+    ],
+    [
+      "nz",
+      2
+    ],
+    [
+      "jp",
+      2
+    ],
+    [
+      "id",
+      2
+    ],
+    [
+      "gr",
+      2
+    ],
+    [
+      "ru",
+      2
+    ],
+    [
+      "hr",
+      1
+    ],
+    [
+      "lt",
+      1
+    ],
+    [
+      "ua",
+      1
+    ],
+    [
+      "kw",
+      1
+    ],
+    [
+      "vn",
+      1
+    ],
+    [
+      "tr",
+      1
+    ],
+    [
+      "ar",
+      1
+    ],
+    [
+      "eg",
+      1
+    ],
+    [
+      "cl",
+      1
+    ],
+    [
+      "tw",
+      1
+    ],
+    [
+      "hk",
+      1
+    ]
+  ],
+  "primary_naics_counts": [
+    [
+      "Software Publishers",
+      67
+    ],
+    [
+      "Turbine and Turbine Generator Set Units Manufacturing",
+      44
+    ],
+    [
+      "Computer Systems Design Services",
+      30
+    ],
+    [
+      "Pharmaceutical Preparation Manufacturing",
+      25
+    ],
+    [
+      "Battery Manufacturing",
+      24
+    ],
+    [
+      "Engineering Services",
+      22
+    ],
+    [
+      "Other Basic Inorganic Chemical Manufacturing",
+      21
+    ],
+    [
+      "Financial Transactions Processing, Reserve, and Clearinghouse Activities",
+      15
+    ],
+    [
+      "All Other Miscellaneous Electrical Equipment and Component Manufacturing",
+      12
+    ],
+    [
+      "Custom Computer Programming Services",
+      11
+    ],
+    [
+      "Soft Drink Manufacturing",
+      11
+    ],
+    [
+      "Semiconductor and Related Device Manufacturing",
+      10
+    ],
+    [
+      "Environmental Consulting Services",
+      9
+    ],
+    [
+      "All Other Plastics Product Manufacturing",
+      8
+    ],
+    [
+      "Commercial and Institutional Building Construction",
+      7
+    ],
+    [
+      "Plastics Bottle Manufacturing",
+      7
+    ],
+    [
+      "Wind Electric Power Generation",
+      6
+    ],
+    [
+      "Other Scientific and Technical Consulting Services",
+      6
+    ],
+    [
+      "Administrative Management and General Management Consulting Services",
+      6
+    ],
+    [
+      "Other Heavy and Civil Engineering Construction",
+      5
+    ],
+    [
+      "International, Secondary Market, and All Other Nondepository Credit Intermediation",
+      5
+    ],
+    [
+      "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",
+      5
+    ],
+    [
+      "Fabricated Structural Metal Manufacturing",
+      4
+    ],
+    [
+      "Wineries",
+      4
+    ],
+    [
+      "Biological Product (except Diagnostic) Manufacturing",
+      4
+    ]
+  ],
+  "list_fields": {
+    "business_model": {
+      "min_length": 1,
+      "median_length": 3,
+      "max_length": 8,
+      "top_values": [
+        [
+          "Business-to-Business",
+          441
+        ],
+        [
+          "Manufacturing",
+          253
+        ],
+        [
+          "Service Provider",
+          237
+        ],
+        [
+          "Enterprise",
+          159
+        ],
+        [
+          "Business-to-Consumer",
+          124
+        ],
+        [
+          "Software-as-a-Service",
+          90
+        ],
+        [
+          "Wholesale",
+          89
+        ],
+        [
+          "Retail",
+          74
+        ],
+        [
+          "E-commerce",
+          38
+        ],
+        [
+          "Subscription-Based",
+          16
+        ],
+        [
+          "Licensing",
+          8
+        ],
+        [
+          "Government/Public Sector",
+          3
+        ],
+        [
+          "Logistics/Transportation",
+          3
+        ],
+        [
+          "Real Estate Development",
+          3
+        ],
+        [
+          "Non-Profit/Non-Governmental Organization",
+          3
+        ]
+      ]
+    },
+    "target_markets": {
+      "min_length": 1,
+      "median_length": 2,
+      "max_length": 31,
+      "top_values": [
+        [
+          "Renewable Energy",
+          103
+        ],
+        [
+          "Healthcare",
+          74
+        ],
+        [
+          "Energy",
+          65
+        ],
+        [
+          "Automotive",
+          57
+        ],
+        [
+          "Financial Services",
+          41
+        ],
+        [
+          "Food and Beverage",
+          40
+        ],
+        [
+          "Human Resources",
+          37
+        ],
+        [
+          "Pharmaceuticals",
+          36
+        ],
+        [
+          "Industrial",
+          33
+        ],
+        [
+          "Construction",
+          32
+        ],
+        [
+          "Retail",
+          26
+        ],
+        [
+          "Education",
+          24
+        ],
+        [
+          "Manufacturing",
+          23
+        ],
+        [
+          "Agriculture",
+          22
+        ],
+        [
+          "Hospitality",
+          20
+        ]
+      ]
+    },
+    "core_offerings": {
+      "min_length": 1,
+      "median_length": 13,
+      "max_length": 18,
+      "top_values": [
+        [
+          "Renewable Energy Solutions",
+          30
+        ],
+        [
+          "Payroll Management Software Development",
+          17
+        ],
+        [
+          "Recruitment Management Software Development",
+          15
+        ],
+        [
+          "Talent Management Software Development",
+          14
+        ],
+        [
+          "IT Consulting Services",
+          13
+        ],
+        [
+          "Sustainability Consulting Services",
+          13
+        ],
+        [
+          "HR Software Training Services",
+          12
+        ],
+        [
+          "Wind Turbine Manufacturing",
+          12
+        ],
+        [
+          "Renewable Energy Semiconductor Manufacturing",
+          12
+        ],
+        [
+          "HR Management Software Development",
+          11
+        ],
+        [
+          "Sustainable Product Development",
+          10
+        ],
+        [
+          "Wind Turbine Installation Services",
+          10
+        ],
+        [
+          "Digital Transformation Consulting",
+          10
+        ],
+        [
+          "Project Management Services",
+          9
+        ],
+        [
+          "Community Engagement Services",
+          9
+        ]
+      ]
+    }
+  },
+  "numeric_fields": {
+    "year_founded": {
+      "count": 346,
+      "missing": 131,
+      "quantiles": {
+        "min": 1856.0,
+        "p25": 1989.0,
+        "median": 2011.0,
+        "p75": 2021.0,
+        "p90": 2024.0,
+        "p95": 2025.0,
+        "max": 2025.0
+      }
+    },
+    "employee_count": {
+      "count": 289,
+      "missing": 188,
+      "quantiles": {
+        "min": 1.0,
+        "p25": 5.0,
+        "median": 30.0,
+        "p75": 2603.0,
+        "p90": 39000.0,
+        "p95": 101000.0,
+        "max": 2100000.0
+      }
+    },
+    "revenue": {
+      "count": 384,
+      "missing": 93,
+      "quantiles": {
+        "min": 7524.0,
+        "p25": 2500000.0,
+        "median": 20368963.0,
+        "p75": 1580480112.0,
+        "p90": 13498241905.0,
+        "p95": 24140277671.0,
+        "max": 2500388591944.0
+      }
+    }
+  },
+  "is_public_counts": {
+    "false": 436,
+    "true": 41
+  },
+  "duplicate_websites": [
+    [
+      "wavedragon.com",
+      2
+    ],
+    [
+      "norhybrid.com",
+      2
+    ],
+    [
+      "teslaoceanturbine.com",
+      2
+    ],
+    [
+      "windainergy.com",
+      2
+    ],
+    [
+      "cktl.se",
+      2
+    ],
+    [
+      "nextfabrication.com",
+      2
+    ],
+    [
+      "worldwidewind.no",
+      2
+    ],
+    [
+      "cirkelenergi.dk",
+      2
+    ],
+    [
+      "windspider.com",
+      2
+    ],
+    [
+      "sol-ind.com",
+      2
+    ],
+    [
+      "vindparken.se",
+      2
+    ],
+    [
+      "teunhulst.nl",
+      2
+    ],
+    [
+      "fredolsen1848.com",
+      2
+    ]
+  ],
+  "duplicate_operational_names": [
+    [
+      "sesame hr",
+      4
+    ],
+    [
+      "enercon",
+      3
+    ],
+    [
+      "rompetrol",
+      2
+    ],
+    [
+      "versar",
+      2
+    ],
+    [
+      "wave dragon",
+      2
+    ],
+    [
+      "rögle vindkraftpark",
+      2
+    ],
+    [
+      "norhybrid renewables",
+      2
+    ],
+    [
+      "tesla ocean turbine",
+      2
+    ],
+    [
+      "windainergy",
+      2
+    ],
+    [
+      "mantawind",
+      2
+    ],
+    [
+      "carita och torbjörn",
+      2
+    ],
+    [
+      "next fabrication",
+      2
+    ],
+    [
+      "international wind energy",
+      2
+    ],
+    [
+      "world wide wind",
+      2
+    ],
+    [
+      "cirkel energi",
+      2
+    ],
+    [
+      "deif wind power technology",
+      2
+    ],
+    [
+      "windspider",
+      2
+    ],
+    [
+      "verta",
+      2
+    ],
+    [
+      "sol industries",
+      2
+    ],
+    [
+      "erikshester vindpark",
+      2
+    ],
+    [
+      "envision energy denmark",
+      2
+    ],
+    [
+      "logic-energy",
+      2
+    ],
+    [
+      "fred. olsen 1848",
+      2
+    ],
+    [
+      "decathlon",
+      2
+    ],
+    [
+      "rjetech",
+      2
+    ]
+  ],
+  "description_length": {
+    "min": 121.0,
+    "p25": 469.0,
+    "median": 558.0,
+    "p75": 648.0,
+    "p90": 728.0,
+    "p95": 788.0,
+    "max": 913.0
+  }
+}

@@ -1,0 +1,1142 @@
+[
+  {
+    "query": "Logistic companies in Romania",
+    "results": [
+      {
+        "record_id": "company-0012",
+        "name": "Bunge Romania",
+        "website": "bunge-romania.ro",
+        "country": "Romania",
+        "lexical_score": 0.13402411170385606,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0004",
+        "name": "CBRE Romania",
+        "website": "cbre.ro",
+        "country": "Romania",
+        "lexical_score": 0.1266836251116433,
+        "structured_decision": "possible",
+        "structured_score": 0.25
+      },
+      {
+        "record_id": "company-0008",
+        "name": "Mercedes-Benz Trucks & Buses Romania",
+        "website": "mercedes-benz-trucks-mbb.ro",
+        "country": "Romania",
+        "lexical_score": 0.11207011557832482,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0014",
+        "name": "METRO România",
+        "website": "metro.ro",
+        "country": "Romania",
+        "lexical_score": 0.10133460951009754,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0003",
+        "name": "Rompetrol",
+        "website": "rompetrol.com",
+        "country": "Romania",
+        "lexical_score": 0.08290926415059938,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0010",
+        "name": "Fildas Trading",
+        "website": "fildas.ro",
+        "country": "Romania",
+        "lexical_score": 0.07336208608272615,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0022",
+        "name": "STILL",
+        "website": "still.ro",
+        "country": "Romania",
+        "lexical_score": 0.07104066763151136,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0001",
+        "name": "Rompetrol",
+        "website": "rompetrol.ro",
+        "country": "Romania",
+        "lexical_score": 0.06374573351311011,
+        "structured_decision": "possible",
+        "structured_score": 0.25
+      },
+      {
+        "record_id": "company-0021",
+        "name": "Brasov Industrial Portfolio",
+        "website": "brasov-industrialportfolio.ro",
+        "country": "Romania",
+        "lexical_score": 0.032698436546173604,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0020",
+        "name": "Valbur",
+        "website": "vt-i.eu",
+        "country": "Romania",
+        "lexical_score": 0.030220983639012728,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      }
+    ]
+  },
+  {
+    "query": "Public software companies with more than 1,000 employees.",
+    "results": [
+      {
+        "record_id": "company-0114",
+        "name": "Microtis",
+        "website": "microtis.lu",
+        "country": "Luxembourg",
+        "lexical_score": 0.1391744899246094,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0087",
+        "name": "Cantoriel",
+        "website": "cantoriel.fr",
+        "country": "France",
+        "lexical_score": 0.1355008945520543,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0084",
+        "name": "Virtualia",
+        "website": "virtualia.fr",
+        "country": "France",
+        "lexical_score": 0.13494009527597672,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0101",
+        "name": "Tenea Talent",
+        "website": "teneatalent.com",
+        "country": "Spain",
+        "lexical_score": 0.1278092724007639,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0108",
+        "name": "Jooma",
+        "website": "jooma-paye.fr",
+        "country": "France",
+        "lexical_score": 0.12458296747208998,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0058",
+        "name": "Folio",
+        "website": "folio.no",
+        "country": "Norway",
+        "lexical_score": 0.11344790223767541,
+        "structured_decision": "reject",
+        "structured_score": -2.0
+      },
+      {
+        "record_id": "company-0107",
+        "name": "Zellis",
+        "website": "zellis.com",
+        "country": "United Kingdom",
+        "lexical_score": 0.0976015269910817,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0074",
+        "name": "quarksUp",
+        "website": "quarksup.com",
+        "country": "France",
+        "lexical_score": 0.09411718547410779,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0094",
+        "name": "Paychex",
+        "website": "paychex.de",
+        "country": "Germany",
+        "lexical_score": 0.08555136172325543,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0268",
+        "name": "Tata Consultancy Services",
+        "website": "tcs.com",
+        "country": "India",
+        "lexical_score": 0.08488738668617583,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      }
+    ]
+  },
+  {
+    "query": "Food and beverage manufacturers in France",
+    "results": [
+      {
+        "record_id": "company-0387",
+        "name": "Famille Pouille",
+        "website": "pouille.eu",
+        "country": "France",
+        "lexical_score": 0.3368704870271994,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0400",
+        "name": "Dechelette Estate",
+        "website": null,
+        "country": "France",
+        "lexical_score": 0.2797753611871018,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0386",
+        "name": "Domaine Godeau",
+        "website": null,
+        "country": "France",
+        "lexical_score": 0.2762939054718585,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0394",
+        "name": "Geyer",
+        "website": null,
+        "country": "France",
+        "lexical_score": 0.2514411832869516,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0381",
+        "name": "La Péro",
+        "website": "la-pero.fr",
+        "country": "France",
+        "lexical_score": 0.23601324236124127,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0398",
+        "name": "Club-Mate",
+        "website": "club-mate.fr",
+        "country": "France",
+        "lexical_score": 0.2002308905604202,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0388",
+        "name": "MILHADE Vins & Spiritueux",
+        "website": null,
+        "country": "France",
+        "lexical_score": 0.19643537908565745,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0389",
+        "name": "La Limonaderie de Paris",
+        "website": "lalimonaderiedeparis.com",
+        "country": "France",
+        "lexical_score": 0.19246200521421433,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0384",
+        "name": "LA MULTILOCALE",
+        "website": "lamultilocale.org",
+        "country": "France",
+        "lexical_score": 0.18913066254021288,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0024",
+        "name": "European Drinks",
+        "website": "europeandrinks.ro",
+        "country": "Romania",
+        "lexical_score": 0.181857307579982,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      }
+    ]
+  },
+  {
+    "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+    "results": [
+      {
+        "record_id": "company-0264",
+        "name": null,
+        "website": "seycosmetics.co.uk",
+        "country": "United States",
+        "lexical_score": 0.29065176384336844,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0255",
+        "name": "SHEACK Packaging",
+        "website": "sheackpkg.com",
+        "country": "China",
+        "lexical_score": 0.2905912641078086,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0266",
+        "name": "Flextribe",
+        "website": "flextribe.co",
+        "country": "United States",
+        "lexical_score": 0.2716065622114374,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0251",
+        "name": "Minh Trang Packaging",
+        "website": "xuongchailominhtrang.com",
+        "country": "Vietnam",
+        "lexical_score": 0.2613038138258694,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0262",
+        "name": "Yijie Packaging",
+        "website": "yijiepackaging.en.alibaba.com",
+        "country": "China",
+        "lexical_score": 0.24764555621522083,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0263",
+        "name": "Shenzhen Itop Cosmetic Packaging",
+        "website": "itoppacking.com",
+        "country": "China",
+        "lexical_score": 0.24512536179088018,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0253",
+        "name": "Aurelo Packaging Co",
+        "website": "aurelopackaging.com.au",
+        "country": "Australia",
+        "lexical_score": 0.22689263743730154,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0254",
+        "name": "Crystal International",
+        "website": "crystalintl.com",
+        "country": "Canada",
+        "lexical_score": 0.21808541122932004,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0265",
+        "name": "Standard Mold",
+        "website": "standardmold.co.kr",
+        "country": "South Korea",
+        "lexical_score": 0.18803805452383082,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0260",
+        "name": "SZ SJ Packaging",
+        "website": "szsjpackaging.com",
+        "country": "China",
+        "lexical_score": 0.1818074510286894,
+        "structured_decision": "possible",
+        "structured_score": 0.5
+      }
+    ]
+  },
+  {
+    "query": "Construction companies in the United States with revenue over $50 million",
+    "results": [
+      {
+        "record_id": "company-0461",
+        "name": "Alcon",
+        "website": "aeriepharma.com",
+        "country": "Switzerland",
+        "lexical_score": 0.14700173740639663,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0035",
+        "name": "Skanska",
+        "website": "skanska.com",
+        "country": "United States",
+        "lexical_score": 0.0978301142929117,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0039",
+        "name": "Focus Civil Construction Group",
+        "website": "focuscivil.com",
+        "country": "United States",
+        "lexical_score": 0.0922655931017085,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0044",
+        "name": "DPR Construction",
+        "website": "dpr.com",
+        "country": "United States",
+        "lexical_score": 0.09058559560732077,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0028",
+        "name": "Kiewit",
+        "website": "kiewit.com",
+        "country": "United States",
+        "lexical_score": 0.08810378600849882,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0264",
+        "name": null,
+        "website": "seycosmetics.co.uk",
+        "country": "United States",
+        "lexical_score": 0.08425875277031289,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0038",
+        "name": "Halmar International",
+        "website": "halmarinternational.com",
+        "country": "United States",
+        "lexical_score": 0.07969786841619073,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0034",
+        "name": "EMCOR Group",
+        "website": "emcorgroup.com",
+        "country": "United States",
+        "lexical_score": 0.07781543905725093,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0313",
+        "name": "MA-Engineering",
+        "website": "ma-engineering.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.07625074940299578,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0027",
+        "name": "Fluor",
+        "website": "fluor.com",
+        "country": "United States",
+        "lexical_score": 0.07599555706654927,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      }
+    ]
+  },
+  {
+    "query": "Pharmaceutical companies in Switzerland",
+    "results": [
+      {
+        "record_id": "company-0450",
+        "name": "Sumitomo Pharma Switzerland",
+        "website": "sumitomo-pharma.com",
+        "country": "Switzerland",
+        "lexical_score": 0.2939731796804796,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0452",
+        "name": "Siegfried",
+        "website": "siegfried.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.27106051144709925,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0477",
+        "name": "A. Menarini",
+        "website": "menarini.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.19317751456654736,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0460",
+        "name": "Bachem",
+        "website": "bachem.com",
+        "country": "Switzerland",
+        "lexical_score": 0.17981324846994864,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0454",
+        "name": "Acino",
+        "website": "acino.swiss",
+        "country": "Switzerland",
+        "lexical_score": 0.16779409493463499,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0457",
+        "name": "Idorsia",
+        "website": "idorsia.com",
+        "country": "Switzerland",
+        "lexical_score": 0.1642358685062404,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0472",
+        "name": "TRB Chemedica",
+        "website": "trbchemedica.com",
+        "country": "Switzerland",
+        "lexical_score": 0.16022369260904729,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0475",
+        "name": "Tillotts Pharma",
+        "website": "tillotts.com",
+        "country": "Switzerland",
+        "lexical_score": 0.15991777145950611,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0471",
+        "name": "Helsinn",
+        "website": "helsinn.com",
+        "country": "Switzerland",
+        "lexical_score": 0.15466413284451072,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0461",
+        "name": "Alcon",
+        "website": "aeriepharma.com",
+        "country": "Switzerland",
+        "lexical_score": 0.15253557435357054,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      }
+    ]
+  },
+  {
+    "query": "B2B SaaS companies providing HR solutions in Europe",
+    "results": [
+      {
+        "record_id": "company-0073",
+        "name": "Personio",
+        "website": null,
+        "country": "Germany",
+        "lexical_score": 0.17047418938140096,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0108",
+        "name": "Jooma",
+        "website": "jooma-paye.fr",
+        "country": "France",
+        "lexical_score": 0.16149961411275504,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0089",
+        "name": "Foederis",
+        "website": "foederis.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.15605546473804394,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0070",
+        "name": "Kapsoon",
+        "website": "kapsoon.io",
+        "country": "France",
+        "lexical_score": 0.14133728047835306,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0155",
+        "name": "AI Partnerships",
+        "website": "aipartnershipscorp.com",
+        "country": "Canada",
+        "lexical_score": 0.10729800558635409,
+        "structured_decision": "reject",
+        "structured_score": -0.125
+      },
+      {
+        "record_id": "company-0072",
+        "name": "Asys",
+        "website": "asys.fr",
+        "country": "France",
+        "lexical_score": 0.0991250088804903,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0102",
+        "name": "uMan Xpert",
+        "website": "uman.pt",
+        "country": "Portugal",
+        "lexical_score": 0.08793647298502327,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0126",
+        "name": "Aquarium",
+        "website": "aquariumlearning.com",
+        "country": "United States",
+        "lexical_score": 0.0773548444224998,
+        "structured_decision": "reject",
+        "structured_score": -0.125
+      },
+      {
+        "record_id": "company-0076",
+        "name": "NOVRH",
+        "website": "novrh.com",
+        "country": "France",
+        "lexical_score": 0.06849753901905048,
+        "structured_decision": "possible",
+        "structured_score": 0.625
+      },
+      {
+        "record_id": "company-0052",
+        "name": "Salauddin Global Trading",
+        "website": "salauddinglobal.co.uk",
+        "country": "United Kingdom",
+        "lexical_score": 0.06462604512524937,
+        "structured_decision": "reject",
+        "structured_score": -0.875
+      }
+    ]
+  },
+  {
+    "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+    "results": [
+      {
+        "record_id": "company-0203",
+        "name": "Verta",
+        "website": null,
+        "country": "Norway",
+        "lexical_score": 0.09184049315298988,
+        "structured_decision": "possible",
+        "structured_score": 0.5
+      },
+      {
+        "record_id": "company-0414",
+        "name": "Verta",
+        "website": null,
+        "country": "Norway",
+        "lexical_score": 0.09184049315298988,
+        "structured_decision": "possible",
+        "structured_score": 0.5
+      },
+      {
+        "record_id": "company-0108",
+        "name": "Jooma",
+        "website": "jooma-paye.fr",
+        "country": "France",
+        "lexical_score": 0.0831178597118913,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0180",
+        "name": "MantaWind",
+        "website": null,
+        "country": "Sweden",
+        "lexical_score": 0.08283332892793273,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0416",
+        "name": "MantaWind",
+        "website": null,
+        "country": "Sweden",
+        "lexical_score": 0.08283332892793273,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0189",
+        "name": "Sowin Power",
+        "website": "sowinpower.no",
+        "country": "Norway",
+        "lexical_score": 0.07048320699441228,
+        "structured_decision": "possible",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0406",
+        "name": "Fastnet",
+        "website": "fastnet.se",
+        "country": "Sweden",
+        "lexical_score": 0.06177976342736485,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0205",
+        "name": "VASOL TECH",
+        "website": "vasol.se",
+        "country": "Sweden",
+        "lexical_score": 0.061357522427277614,
+        "structured_decision": "possible",
+        "structured_score": 0.5
+      },
+      {
+        "record_id": "company-0317",
+        "name": "Styri",
+        "website": "styri.eu",
+        "country": "Norway",
+        "lexical_score": 0.060277693591736105,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0419",
+        "name": "Kraftkar Energi",
+        "website": "kraftkarenergi.no",
+        "country": "Norway",
+        "lexical_score": 0.057473476555283065,
+        "structured_decision": "possible",
+        "structured_score": 0.0
+      }
+    ]
+  },
+  {
+    "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+    "results": [
+      {
+        "record_id": "company-0383",
+        "name": "Paniers d'Eve",
+        "website": null,
+        "country": "France",
+        "lexical_score": 0.1482540072665359,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0311",
+        "name": "WBS Mobility",
+        "website": "e-way24.pl",
+        "country": "Poland",
+        "lexical_score": 0.09269073791658161,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0063",
+        "name": "European Pay",
+        "website": "european-pay.fr",
+        "country": "France",
+        "lexical_score": 0.0869787043355476,
+        "structured_decision": "possible",
+        "structured_score": 0.25
+      },
+      {
+        "record_id": "company-0046",
+        "name": "SkyHarvest",
+        "website": "skyharvest.eu",
+        "country": "Austria",
+        "lexical_score": 0.07683598502573555,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0382",
+        "name": "L'Essinganaise",
+        "website": "lessinganaise.com",
+        "country": "France",
+        "lexical_score": 0.06566927165831014,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0285",
+        "name": "Tietoevry",
+        "website": "tietoevry.com",
+        "country": "Finland",
+        "lexical_score": 0.06436485413908424,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0075",
+        "name": "Novative",
+        "website": "novative.com",
+        "country": "Switzerland",
+        "lexical_score": 0.0611711141254158,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0250",
+        "name": "Vetipak",
+        "website": null,
+        "country": "Netherlands",
+        "lexical_score": 0.06100238852465932,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0390",
+        "name": "Auvergnat Cola",
+        "website": "auvergnatcola.com",
+        "country": "France",
+        "lexical_score": 0.0584982770281442,
+        "structured_decision": "reject",
+        "structured_score": -0.5
+      },
+      {
+        "record_id": "company-0247",
+        "name": "Goya Foods",
+        "website": "goya.com",
+        "country": "United States",
+        "lexical_score": 0.057321580193861695,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      }
+    ]
+  },
+  {
+    "query": "E-commerce companies using Shopify or similar platforms",
+    "results": [
+      {
+        "record_id": "company-0048",
+        "name": "EasyKassa",
+        "website": "easykassa.at",
+        "country": "Austria",
+        "lexical_score": 0.07365953871528882,
+        "structured_decision": "possible",
+        "structured_score": 0.25
+      },
+      {
+        "record_id": "company-0266",
+        "name": "Flextribe",
+        "website": "flextribe.co",
+        "country": "United States",
+        "lexical_score": 0.07118148834034899,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0289",
+        "name": "Mon BE Fluides",
+        "website": "monbefluides.fr",
+        "country": "France",
+        "lexical_score": 0.07094411207947339,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0382",
+        "name": "L'Essinganaise",
+        "website": "lessinganaise.com",
+        "country": "France",
+        "lexical_score": 0.05177048996440614,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0375",
+        "name": "Greenbatt Technology",
+        "website": "greenbatt.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.048815340492775805,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0144",
+        "name": "feder8.ai",
+        "website": null,
+        "country": "Canada",
+        "lexical_score": 0.047612549479841566,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0218",
+        "name": "US Foods",
+        "website": "usfoods.com",
+        "country": "United States",
+        "lexical_score": 0.04593958924833693,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0217",
+        "name": "The Home Depot",
+        "website": "homedepot.com",
+        "country": "United States",
+        "lexical_score": 0.044611824114362514,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0158",
+        "name": "AryaXAI",
+        "website": "aryaxai.com",
+        "country": "United States",
+        "lexical_score": 0.04346135242280404,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      },
+      {
+        "record_id": "company-0367",
+        "name": "Rusaccum",
+        "website": "rusaccum.ru",
+        "country": "Russia",
+        "lexical_score": 0.04218004279659757,
+        "structured_decision": "reject",
+        "structured_score": -1.25
+      }
+    ]
+  },
+  {
+    "query": "Renewable energy equipment manufacturers in Scandinavia",
+    "results": [
+      {
+        "record_id": "company-0438",
+        "name": "BayWa r.e. Scandinavia",
+        "website": null,
+        "country": "Sweden",
+        "lexical_score": 0.36184506327249155,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0204",
+        "name": "Rhino Power",
+        "website": "rhinopower.fi",
+        "country": "Finland",
+        "lexical_score": 0.1725155463988361,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0167",
+        "name": "Siemens Energy",
+        "website": null,
+        "country": "Finland",
+        "lexical_score": 0.16569863861015058,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      },
+      {
+        "record_id": "company-0187",
+        "name": "Next Fabrication",
+        "website": "nextfabrication.com",
+        "country": "Denmark",
+        "lexical_score": 0.11900725716251251,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0408",
+        "name": "Next Fabrication",
+        "website": "nextfabrication.com",
+        "country": "Denmark",
+        "lexical_score": 0.11900725716251251,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0378",
+        "name": "Stratus Materials",
+        "website": "stratusmaterials.com",
+        "country": "United States",
+        "lexical_score": 0.11697752606348326,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0363",
+        "name": "Sepion Technologies",
+        "website": "sepiontechnologies.com",
+        "country": "United States",
+        "lexical_score": 0.10816922615937222,
+        "structured_decision": "reject",
+        "structured_score": -1.0
+      },
+      {
+        "record_id": "company-0185",
+        "name": "Carita och Torbjörn",
+        "website": "cktl.se",
+        "country": "Sweden",
+        "lexical_score": 0.1074453695520106,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0433",
+        "name": "Carita och Torbjörn",
+        "website": "cktl.se",
+        "country": "Sweden",
+        "lexical_score": 0.1074453695520106,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0364",
+        "name": "Mitra Chem",
+        "website": "mitrachem.com",
+        "country": "United States",
+        "lexical_score": 0.1057877718429117,
+        "structured_decision": "reject",
+        "structured_score": 0.0
+      }
+    ]
+  },
+  {
+    "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+    "results": [
+      {
+        "record_id": "company-0377",
+        "name": "ReFire_ev",
+        "website": null,
+        "country": "India",
+        "lexical_score": 0.2295639180256335,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0356",
+        "name": "Charge CCCV",
+        "website": "chargecccv.com",
+        "country": "United States",
+        "lexical_score": 0.17722396557911838,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0348",
+        "name": "RJETech",
+        "website": "rjetech.com",
+        "country": "China",
+        "lexical_score": 0.16697057572908952,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0369",
+        "name": "Anda Technology",
+        "website": "ad-lib.cn",
+        "country": "China",
+        "lexical_score": 0.1642724846854514,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0337",
+        "name": "SolidEdge Solution",
+        "website": "solidedgesolution.com",
+        "country": "Taiwan",
+        "lexical_score": 0.16189718634657665,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0339",
+        "name": "RJETech",
+        "website": null,
+        "country": "China",
+        "lexical_score": 0.16182514588324445,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0296",
+        "name": "GT Solve",
+        "website": "globaltechsolve.com",
+        "country": "India",
+        "lexical_score": 0.14550251286869306,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0347",
+        "name": "Dongdao New Energy",
+        "website": "dongdaochina.cn",
+        "country": "China",
+        "lexical_score": 0.14226709305591206,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0378",
+        "name": "Stratus Materials",
+        "website": "stratusmaterials.com",
+        "country": "United States",
+        "lexical_score": 0.14145835790322264,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      },
+      {
+        "record_id": "company-0375",
+        "name": "Greenbatt Technology",
+        "website": "greenbatt.ch",
+        "country": "Switzerland",
+        "lexical_score": 0.139213337734508,
+        "structured_decision": "match",
+        "structured_score": 1.0
+      }
+    ]
+  }
+]
