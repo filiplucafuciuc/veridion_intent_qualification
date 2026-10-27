@@ -1,0 +1,98 @@
+{
+  "purpose": "Distinguish semantic ambiguity from missing data before adding an LLM.",
+  "decision_scale": {
+    "llm_value": "Would semantic reasoning plausibly improve qualification using evidence already present?",
+    "data_gap": "Does the query require a field or historical evidence that the dataset does not contain?"
+  },
+  "audits": [
+    {
+      "query": "Logistic companies in Romania",
+      "structured_evidence": "mostly_sufficient",
+      "llm_value": "low_to_medium",
+      "data_gap": false,
+      "reason": "Country and logistics offerings are often explicit, but target-market-only mentions can confuse customers with logistics operators."
+    },
+    {
+      "query": "Public software companies with more than 1,000 employees.",
+      "structured_evidence": "sufficient",
+      "llm_value": "none",
+      "data_gap": false,
+      "reason": "Public status, software evidence, and employee threshold are directly evaluable."
+    },
+    {
+      "query": "Food and beverage manufacturers in France",
+      "structured_evidence": "mostly_sufficient",
+      "llm_value": "low",
+      "data_gap": false,
+      "reason": "Country, manufacturing role, NAICS, and offerings provide direct evidence."
+    },
+    {
+      "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+      "structured_evidence": "partial",
+      "llm_value": "high",
+      "data_gap": false,
+      "reason": "The dataset contains manufacturing, packaging, and cosmetics evidence, but semantic reasoning is useful for distinguishing a supplier from a company that merely mentions packaging."
+    },
+    {
+      "query": "Construction companies in the United States with revenue over $50 million",
+      "structured_evidence": "sufficient",
+      "llm_value": "none",
+      "data_gap": false,
+      "reason": "Country, construction evidence, and revenue threshold are directly evaluable."
+    },
+    {
+      "query": "Pharmaceutical companies in Switzerland",
+      "structured_evidence": "sufficient",
+      "llm_value": "none",
+      "data_gap": false,
+      "reason": "Country and pharmaceutical manufacturing evidence are explicit for many records."
+    },
+    {
+      "query": "B2B SaaS companies providing HR solutions in Europe",
+      "structured_evidence": "mostly_sufficient",
+      "llm_value": "low_to_medium",
+      "data_gap": false,
+      "reason": "Europe, B2B, SaaS, and HR target-market evidence are available; an LLM could help only with borderline service-versus-product cases."
+    },
+    {
+      "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+      "structured_evidence": "partial",
+      "llm_value": "low",
+      "data_gap": true,
+      "reason": "Year and employee thresholds are available for some records, but startup is a heuristic and missing values cannot be recovered by an LLM."
+    },
+    {
+      "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+      "structured_evidence": "partial",
+      "llm_value": "medium",
+      "data_gap": true,
+      "reason": "Fintech and Europe can be evidenced, but growth history and explicit bank competition are generally absent. An LLM can interpret supplied relationship language but cannot invent time-series evidence."
+    },
+    {
+      "query": "E-commerce companies using Shopify or similar platforms",
+      "structured_evidence": "insufficient_for_platform",
+      "llm_value": "none_without_new_data",
+      "data_gap": true,
+      "reason": "The schema has no technology-stack field. An LLM should return insufficient evidence rather than guess Shopify usage."
+    },
+    {
+      "query": "Renewable energy equipment manufacturers in Scandinavia",
+      "structured_evidence": "mostly_sufficient",
+      "llm_value": "low",
+      "data_gap": false,
+      "reason": "The region policy, country, renewable-energy evidence, and manufacturing role are explicit; the main limitation is the maintained geography vocabulary."
+    },
+    {
+      "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+      "structured_evidence": "partial",
+      "llm_value": "high",
+      "data_gap": false,
+      "reason": "Battery and manufacturing evidence is present, but deciding whether an offering is a critical component in the EV battery value chain is semantic."
+    }
+  ],
+  "conclusion": {
+    "implement_llm_now": false,
+    "justification": "Only packaging and EV-battery supply-chain queries show a clear semantic benefit. Growth and Shopify cases are primarily data gaps, while structured queries do not justify API cost.",
+    "future_experiment": "If an API is available, compare a maximum of five selected candidates for the packaging and EV-battery queries against the offline result, with structured JSON output and no ability to override hard constraints."
+  }
+}

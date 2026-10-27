@@ -239,7 +239,7 @@ continuing:
 - shell examples containing `$50` must use single quotes so the shell does
   not expand the currency expression.
 
-### 4.1 Baseline limitations
+### 5.1 Baseline limitations
 
 The structured baseline is intentionally limited:
 
@@ -476,7 +476,7 @@ returned result. The useful conclusions from this audit are:
 This separation prevents a small qualitative audit from being presented as a
 statistically reliable benchmark.
 
-## 10. Ambiguity detection
+### 8.1 Ambiguity detection
 
 Before introducing an optional LLM, the project now detects ambiguity using
 signals available in the current 477-record dataset. The detector is in
@@ -513,6 +513,30 @@ field. The report therefore limits the proposed review queue to five
 candidates per query while retaining the full ambiguity count for monitoring.
 This is a useful result: the detector identifies when the missing data itself,
 rather than the ranking model, is the source of uncertainty.
+
+### 8.2 Audit conclusion: ambiguity versus missing data
+
+The ambiguity report was audited query by query in
+[`reports/ambiguity_audit.json`](reports/ambiguity_audit.json). This audit
+prevented us from treating every flagged candidate as an LLM opportunity.
+
+The conclusion is:
+
+- structured queries such as public software with an employee threshold do not
+  justify an LLM;
+- packaging supplier qualification and EV-battery supply-chain roles have a
+  genuine semantic reasoning opportunity;
+- growth and Shopify requirements are primarily data gaps. An LLM cannot
+  recover a missing time series or technology-stack field without becoming a
+  guesser;
+- geographic terms remain an explicit product policy and should not be
+  redefined per LLM call.
+
+For this submission, the core remains offline and no LLM API is required. If
+an API experiment is added later, it should be limited to at most five
+carefully selected candidates from the packaging and battery queries, return
+structured evidence, and never override hard constraints. This is a more
+defensible use of an LLM than sending every candidate or every flagged record.
 
 ## 9. Error analysis
 
