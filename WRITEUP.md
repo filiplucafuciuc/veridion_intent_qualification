@@ -476,6 +476,44 @@ returned result. The useful conclusions from this audit are:
 This separation prevents a small qualitative audit from being presented as a
 statistically reliable benchmark.
 
+## 10. Ambiguity detection
+
+Before introducing an optional LLM, the project now detects ambiguity using
+signals available in the current 477-record dataset. The detector is in
+[`src/ambiguity.py`](src/ambiguity.py) and reports:
+
+- query complexity from relational language and qualitative requirements;
+- unknown constraints;
+- disagreement between lexical and structured evidence;
+- contextual industry evidence that appears only in target markets;
+- small score margins;
+- incomplete company records.
+
+The report is generated with:
+
+```bash
+python3 -m scripts.evaluate_ambiguity --top-k 10 --candidate-limit 100
+```
+
+and stored in
+[`reports/ambiguity_report.json`](reports/ambiguity_report.json).
+
+This is intentionally a bounded review queue, not an LLM call. On this
+dataset, it lets us inspect how many candidates would be sent to a human or
+an optional resolver and why. A future LLM adapter should receive only that
+queue, preserve hard constraints, and return structured evidence; the core
+pipeline remains runnable without an API key.
+
+The current report shows that structured queries produce small queues, while
+queries with unobservable requirements produce much larger ambiguity pools:
+Shopify usage is unknown for every candidate because the dataset has no
+technology-stack field, and growth/bank competition are unknown for the
+fintech query because there is no historical series or explicit relationship
+field. The report therefore limits the proposed review queue to five
+candidates per query while retaining the full ambiguity count for monitoring.
+This is a useful result: the detector identifies when the missing data itself,
+rather than the ranking model, is the source of uncertainty.
+
 ## 9. Error analysis
 
 The baseline reports and manual audit produced the following concrete error

@@ -1,0 +1,575 @@
+[
+  {
+    "query": "Logistic companies in Romania",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.0,
+      "reasons": []
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 7,
+    "review_queue": [
+      {
+        "record_id": "company-0014",
+        "score": 0.6854671133285342,
+        "reasons": [
+          "small ranking margin: 0.010"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0010",
+        "score": 0.6756767301289541,
+        "reasons": [
+          "small ranking margin: 0.010"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0004",
+        "score": 0.20683926878907516,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0001",
+        "score": 0.18481100672958856,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0019",
+        "score": 0.1663578643606602,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Public software companies with more than 1,000 employees.",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.1,
+      "reasons": [
+        "multiple structured constraints"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 2,
+    "review_queue": [
+      {
+        "record_id": "company-0268",
+        "score": 0.6797105853401616,
+        "reasons": [
+          "small ranking margin: 0.005"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0270",
+        "score": 0.6746512219348788,
+        "reasons": [
+          "small ranking margin: 0.005"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Food and beverage manufacturers in France",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.0,
+      "reasons": []
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 3,
+    "review_queue": [
+      {
+        "record_id": "company-0387",
+        "score": 0.7679046704595198,
+        "reasons": [
+          "small ranking margin: 0.020"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0400",
+        "score": 0.7479213764154856,
+        "reasons": [
+          "small ranking margin: 0.020"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0231",
+        "score": -0.44238348074302447,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Companies that could supply packaging materials for a direct-to-consumer cosmetics brand",
+    "query_assessment": {
+      "complexity": "high",
+      "score": 0.5,
+      "reasons": [
+        "relational language: could supply",
+        "target-market relationship"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 85,
+    "review_queue": [
+      {
+        "record_id": "company-0264",
+        "score": 0.751728117345179,
+        "reasons": [
+          "small ranking margin: 0.000",
+          "company name is missing"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0255",
+        "score": 0.7517069424377331,
+        "reasons": [
+          "small ranking margin: 0.000"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0260",
+        "score": 0.3886326078600413,
+        "reasons": [
+          "unknown constraints: target_market:cosmetics",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0250",
+        "score": 0.3738921329818875,
+        "reasons": [
+          "unknown constraints: target_market:cosmetics",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0258",
+        "score": 0.364949351512349,
+        "reasons": [
+          "unknown constraints: target_market:cosmetics",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Construction companies in the United States with revenue over $50 million",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.0,
+      "reasons": []
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 6,
+    "review_queue": [
+      {
+        "record_id": "company-0035",
+        "score": 0.6842405400025191,
+        "reasons": [
+          "small ranking margin: 0.002"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0039",
+        "score": 0.682292957585598,
+        "reasons": [
+          "small ranking margin: 0.002"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0264",
+        "score": -0.12050943653039048,
+        "reasons": [
+          "company name is missing"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0129",
+        "score": -0.46374565500442033,
+        "reasons": [
+          "unknown constraints: revenue"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0153",
+        "score": -0.4647376107714132,
+        "reasons": [
+          "unknown constraints: revenue"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Pharmaceutical companies in Switzerland",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.0,
+      "reasons": []
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 3,
+    "review_queue": [
+      {
+        "record_id": "company-0450",
+        "score": 0.7528906128881678,
+        "reasons": [
+          "small ranking margin: 0.008"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0452",
+        "score": 0.7448711790064848,
+        "reasons": [
+          "small ranking margin: 0.008"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0089",
+        "score": -0.4362679737543629,
+        "reasons": [
+          "lexical and structured evidence disagree"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "B2B SaaS companies providing HR solutions in Europe",
+    "query_assessment": {
+      "complexity": "high",
+      "score": 0.6,
+      "reasons": [
+        "relational language: providing",
+        "multiple structured constraints",
+        "target-market relationship"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 52,
+    "review_queue": [
+      {
+        "record_id": "company-0073",
+        "score": 0.7096659662834903,
+        "reasons": [
+          "small ranking margin: 0.003"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0108",
+        "score": 0.7065248649394643,
+        "reasons": [
+          "small ranking margin: 0.003"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0076",
+        "score": 0.43022413865666764,
+        "reasons": [
+          "unknown constraints: target_market:human resources",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0002",
+        "score": -0.2168370247489949,
+        "reasons": [
+          "unknown constraints: target_market:human resources",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0406",
+        "score": -0.21802973579550183,
+        "reasons": [
+          "unknown constraints: target_market:human resources",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Clean energy startups founded after 2018 with fewer than 200 employees",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.1,
+      "reasons": [
+        "multiple structured constraints"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 54,
+    "review_queue": [
+      {
+        "record_id": "company-0317",
+        "score": 0.6710971927571077,
+        "reasons": [
+          "small ranking margin: 0.002"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0312",
+        "score": 0.6690388788078737,
+        "reasons": [
+          "small ranking margin: 0.002"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0203",
+        "score": 0.3571441726035465,
+        "reasons": [
+          "unknown constraints: employee_count"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0414",
+        "score": 0.3571441726035465,
+        "reasons": [
+          "unknown constraints: employee_count"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0205",
+        "score": 0.3464751328495472,
+        "reasons": [
+          "unknown constraints: year_founded"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Fast-growing fintech companies competing with traditional banks in Europe.",
+    "query_assessment": {
+      "complexity": "high",
+      "score": 0.6,
+      "reasons": [
+        "relational language: competing with, fast-growing",
+        "unobservable qualitative requirements: growth, bank_competition"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 68,
+    "review_queue": [
+      {
+        "record_id": "company-0063",
+        "score": 0.19294254651744167,
+        "reasons": [
+          "unknown constraints: growth, bank_competition",
+          "small ranking margin: 0.017",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0050",
+        "score": 0.17559809330334195,
+        "reasons": [
+          "unknown constraints: growth, bank_competition",
+          "small ranking margin: 0.017",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0057",
+        "score": 0.17546356772299912,
+        "reasons": [
+          "unknown constraints: growth, bank_competition",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0052",
+        "score": 0.17274407794057475,
+        "reasons": [
+          "unknown constraints: growth, bank_competition",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0056",
+        "score": 0.1625,
+        "reasons": [
+          "unknown constraints: growth, bank_competition",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "E-commerce companies using Shopify or similar platforms",
+    "query_assessment": {
+      "complexity": "high",
+      "score": 0.6,
+      "reasons": [
+        "relational language: similar platforms",
+        "unobservable qualitative requirements: platform_usage"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 100,
+    "review_queue": [
+      {
+        "record_id": "company-0048",
+        "score": 0.1882808385503511,
+        "reasons": [
+          "unknown constraints: platform_usage",
+          "small ranking margin: 0.013",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0215",
+        "score": 0.17496322382120313,
+        "reasons": [
+          "unknown constraints: platform_usage",
+          "small ranking margin: 0.013",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0021",
+        "score": 0.17408975971181215,
+        "reasons": [
+          "unknown constraints: platform_usage",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0234",
+        "score": 0.16950056644429504,
+        "reasons": [
+          "unknown constraints: platform_usage",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0238",
+        "score": 0.16873268525279558,
+        "reasons": [
+          "unknown constraints: platform_usage",
+          "query is judgment-heavy"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  },
+  {
+    "query": "Renewable energy equipment manufacturers in Scandinavia",
+    "query_assessment": {
+      "complexity": "low",
+      "score": 0.0,
+      "reasons": []
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 0,
+    "review_queue": []
+  },
+  {
+    "query": "Companies that manufacture or supply critical components for electric vehicle battery production",
+    "query_assessment": {
+      "complexity": "medium",
+      "score": 0.35,
+      "reasons": [
+        "relational language: critical components"
+      ]
+    },
+    "candidate_pool_size": 100,
+    "ambiguous_candidate_count": 6,
+    "review_queue": [
+      {
+        "record_id": "company-0377",
+        "score": 0.7303473713089718,
+        "reasons": [
+          "small ranking margin: 0.018"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0356",
+        "score": 0.7120283879526914,
+        "reasons": [
+          "small ranking margin: 0.018"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0119",
+        "score": 0.18414274144301856,
+        "reasons": [
+          "unknown constraints: role:manufacturer_or_supplier"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0008",
+        "score": 0.18047172049571478,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      },
+      {
+        "record_id": "company-0250",
+        "score": 0.17151661087015274,
+        "reasons": [
+          "unknown constraints: industry",
+          "requested industry appears only in contextual evidence"
+        ],
+        "recommended_action": "optional_llm_or_manual_review"
+      }
+    ]
+  }
+]

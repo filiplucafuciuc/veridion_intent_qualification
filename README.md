@@ -48,6 +48,7 @@ python3 -m scripts.evaluate_hybrid --limit 10 --candidate-limit 100
 python3 -m scripts.build_comparison --limit 5
 python3 -m scripts.evaluate_objective --report reports/hybrid_baseline.json
 python3 -m scripts.evaluate_manual
+python3 -m scripts.evaluate_ambiguity --top-k 10 --candidate-limit 100
 python3 -m pytest -q tests
 ```
 
